@@ -1,0 +1,166 @@
+{
+  "title": "Curated Tech & Systems Engineering Feed Terminal",
+  "description": "High-signal engineering blogs, systems architecture deep dives, and technical teardowns from world-class builders.",
+  "feeds": [
+    {
+      "id": "netflix",
+      "name": "Netflix TechBlog",
+      "author": "Netflix Engineering",
+      "feed_url": "https://netflixtechblog.com/feed",
+      "site_url": "https://netflixtechblog.com",
+      "category": "Systems & Cloud Scale",
+      "color": "#e50914",
+      "description": "Large-scale streaming infrastructure, chaos engineering, data platforms, and microservices."
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare Blog",
+      "author": "Cloudflare Team",
+      "feed_url": "https://blog.cloudflare.com/rss/",
+      "site_url": "https://blog.cloudflare.com",
+      "category": "Networking & Edge Compute",
+      "color": "#f6821f",
+      "description": "Edge routing, DDoS mitigation, Rust systems, BGP, and distributed CDN primitives."
+    },
+    {
+      "id": "github_eng",
+      "name": "GitHub Engineering",
+      "author": "GitHub Engineering",
+      "feed_url": "https://github.blog/category/engineering/feed/",
+      "site_url": "https://github.blog/category/engineering/",
+      "category": "Developer Platforms & Infra",
+      "color": "#238636",
+      "description": "High-availability Git hosting, CI/CD scale, database sharding, and developer productivity."
+    },
+    {
+      "id": "meta_eng",
+      "name": "Meta Engineering",
+      "author": "Meta Engineering Team",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "site_url": "https://engineering.fb.com",
+      "category": "Large-Scale Distributed Systems",
+      "color": "#0668e1",
+      "description": "Billion-user infrastructure, AI hardware clusters, kernel optimizations, and custom silicon."
+    },
+    {
+      "id": "bytebytego",
+      "name": "ByteByteGo",
+      "author": "Alex Xu",
+      "feed_url": "https://blog.bytebytego.com/feed",
+      "site_url": "https://blog.bytebytego.com",
+      "category": "System Design & Architecture",
+      "color": "#0ea5e9",
+      "description": "Visual system design blueprints, distributed consensus, caching patterns, and database internals."
+    },
+    {
+      "id": "pragmatic_eng",
+      "name": "The Pragmatic Engineer",
+      "author": "Gergely Orosz",
+      "feed_url": "https://newsletter.pragmaticengineer.com/feed",
+      "site_url": "https://newsletter.pragmaticengineer.com",
+      "category": "Big Tech & Engineering Management",
+      "color": "#f59e0b",
+      "description": "In-depth case studies on tech architecture, engineering culture, and compensation trends."
+    },
+    {
+      "id": "martin_fowler",
+      "name": "Martin Fowler",
+      "author": "Martin Fowler & ThoughtWorks",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "site_url": "https://martinfowler.com",
+      "category": "Architecture & Refactoring",
+      "color": "#8b5cf6",
+      "description": "Microservices, event-driven architectures, domain-driven design, and continuous delivery."
+    },
+    {
+      "id": "dan_luu",
+      "name": "Dan Luu",
+      "author": "Dan Luu",
+      "feed_url": "https://danluu.com/atom.xml",
+      "site_url": "https://danluu.com",
+      "category": "Systems Performance & Hardware",
+      "color": "#10b981",
+      "description": "Empirical hardware benchmarks, SSD/NVMe latency, CPU caching, and distributed system post-mortems."
+    },
+    {
+      "id": "julia_evans",
+      "name": "Julia Evans",
+      "author": "Julia Evans (Wizard Zines)",
+      "feed_url": "https://jvns.ca/atom.xml",
+      "site_url": "https://jvns.ca",
+      "category": "Linux, Networking & Debugging",
+      "color": "#ec4899",
+      "description": "Intuitive breakdowns of DNS, packet sniffers, Linux syscalls, Git internals, and bash trickery."
+    },
+    {
+      "id": "simon_willison",
+      "name": "Simon Willison",
+      "author": "Simon Willison",
+      "feed_url": "https://simonwillison.net/atom/entries/",
+      "site_url": "https://simonwillison.net",
+      "category": "AI, LLMs & Web Architecture",
+      "color": "#6366f1",
+      "description": "Practical LLM engineering, prompt injection defenses, Datasette, and modern Python web systems."
+    },
+    {
+      "id": "mitchell_hashimoto",
+      "name": "Mitchell Hashimoto",
+      "author": "Mitchell Hashimoto",
+      "feed_url": "https://mitchellh.com/feed.xml",
+      "site_url": "https://mitchellh.com",
+      "category": "Ghostty, Zig & Tooling",
+      "color": "#14b8a6",
+      "description": "Systems programming in Zig, terminal emulators, macOS graphics engines, and developer infrastructure."
+    },
+    {
+      "id": "antirez",
+      "name": "Antirez",
+      "author": "Salvatore Sanfilippo",
+      "feed_url": "http://antirez.com/rss",
+      "site_url": "http://antirez.com",
+      "category": "Redis, C & System Design",
+      "color": "#dc2626",
+      "description": "Musings on Redis internals, low-level C programming, generative AI architectures, and simple design."
+    },
+    {
+      "id": "aws_arch",
+      "name": "AWS Architecture Blog",
+      "author": "AWS Solutions Architects",
+      "feed_url": "https://aws.amazon.com/blogs/architecture/feed/",
+      "site_url": "https://aws.amazon.com/blogs/architecture/",
+      "category": "Cloud Architecture & Resilience",
+      "color": "#ff9900",
+      "description": "Well-Architected frameworks, multi-region failover, serverless orchestration, and disaster recovery."
+    },
+    {
+      "id": "stripe_eng",
+      "name": "Stripe Engineering",
+      "author": "Stripe Engineering",
+      "feed_url": "https://stripe.com/blog/feed.rss",
+      "site_url": "https://stripe.com/blog",
+      "category": "Financial Infrastructure & Reliability",
+      "color": "#635bff",
+      "description": "Zero-downtime database migrations, idempotent payment APIs, Sorbet Ruby typechecker, and PCI security."
+    },
+    {
+      "id": "dropbox_tech",
+      "name": "Dropbox Tech",
+      "author": "Dropbox Engineering",
+      "feed_url": "https://dropbox.tech/feed",
+      "site_url": "https://dropbox.tech",
+      "category": "Storage & Sync Infrastructure",
+      "color": "#0061ff",
+      "description": "Exabyte-scale custom storage (Magic Pocket), Rust sync engine rewrites, and file system synchronization."
+    },
+    {
+      "id": "datadog_eng",
+      "name": "Datadog Engineering",
+      "author": "Datadog Engineering",
+      "feed_url": "https://www.datadoghq.com/blog/engineering/index.xml",
+      "site_url": "https://www.datadoghq.com/blog/engineering/",
+      "category": "Observability & Distributed Tracing",
+      "color": "#7c3aed",
+      "description": "Trillion-event-per-day streaming pipelines, eBPF tracing, Kafka tuning, and real-time metric aggregations."
+    }
+  ]
+}
