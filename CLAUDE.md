@@ -15,6 +15,9 @@
 - `docs/` and `data/`: Cached feed data.
 
 ## Hosting & Deployment
-- Hosted on GitHub Pages: `https://aravind1998.github.io/curated-tech-feeds/`
-- Branch: `main`, path `/`
-- Static HTML5, zero cloudflare, zero build tools required.
+- **Cloudflare Workers**: `https://curated-tech-feeds.indian-equity-feeds.workers.dev`
+  - Deploy command: `npx wrangler deploy`
+  - Config: `wrangler.toml` + `worker.js`
+- **GitHub Pages**: `https://aravind1998.github.io/curated-tech-feeds/`
+  - Branch: `main`, path `/`
+  - Automated updates: `.github/workflows/update-feeds.yml` (every 6 hours)

@@ -27,7 +27,7 @@ TECH_TAG_PATTERNS = {
     "Databases & Storage": ["POSTGRES", "SQL", "DATABASE", "REDIS", "VALKEY", "KAFKA", "STORAGE", "ROCKSDB", "INDEX", "TRANSACTION", "ACID", "LSM"],
     "Networking & Infra": ["NETWORKING", "BGP", "DNS", "TCP", "HTTP/3", "QUIC", "LOAD BALANCER", "ROUTING", "CDN", "FIREWALL"],
     "Cloud & Kubernetes": ["KUBERNETES", "K8S", "DOCKER", "CONTAINER", "AWS", "CLOUD", "TERRAFORM", "SERVERLESS"],
-    "AI & LLMs": ["LLM", "LLMS", "AI", "GPT", "TRANSFORMER", "PROMPT", "INFERENCE", "EMBEDDINGS", "VECTOR", "RAG", "NEURAL"],
+    "AI & LLMs": ["LLM", "LLMS", "AI", "GPT", "TRANSFORMER", "PROMPT", "INFERENCE", "EMBEDDINGS", "VECTOR", "RAG", "NEURAL", "AGENT", "AGENTIC", "CLAUDE", "GEMINI", "FINE-TUNING", "PRETRAINING", "DIFFUSION", "REASONING", "KIMI", "DEEPSEEK"],
     "Linux & Low-Level": ["LINUX", "KERNEL", "SYSCALL", "ZIG", "RUST", "C++", "COMPILER", "HARDWARE", "POSIX"],
     "Observability": ["OBSERVABILITY", "METRICS", "TRACING", "LOGGING", "PROMETHEUS", "GRAFANA", "DATADOG", "TELEMETRY", "OTEL"],
     "Reliability": ["CHAOS", "RESILIENCE", "OUTAGE", "POST-MORTEM", "FAILOVER", "RATE LIMIT", "CIRCUIT BREAKER", "SRE"]
@@ -39,6 +39,7 @@ def clean_html(raw_html):
         return ""
     clean = re.sub(r'<[^>]+>', ' ', raw_html)
     clean = html.unescape(clean)
+    clean = re.sub(r'Continue reading on .*?»', '', clean)
     clean = re.sub(r'\s+', ' ', clean)
     return clean.strip()
 
@@ -573,7 +574,7 @@ def build_dashboard_html(articles, feed_sources, output_file):
         <div class="brand-icon">⚡</div>
         <div>
           <h1>Curated Tech & Systems Engineering Terminal</h1>
-          <p>High-signal technical deep dives from Netflix, Cloudflare, Martin Fowler, Dan Luu, ByteByteGo & world-class builders</p>
+          <p>High-signal technical deep dives from Netflix, Cloudflare, Martin Fowler, Fareed Khan, ByteByteGo & world-class builders</p>
         </div>
       </div>
       <div class="header-actions">

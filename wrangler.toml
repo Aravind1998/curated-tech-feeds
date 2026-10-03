@@ -1,0 +1,8 @@
+name = "curated-tech-feeds"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[[rules]]
+type = "Text"
+globs = ["**/*.html", "**/*.opml"]
+fallthrough = true

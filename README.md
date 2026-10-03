@@ -1,7 +1,8 @@
 # ⚡ Curated Tech & Systems Engineering Feed Terminal
 
-> **Live Deployment:**  
-> 🐙 **GitHub Pages:** [https://aravind1998.github.io/curated-tech-feeds/](https://aravind1998.github.io/curated-tech-feeds/)
+> **Live Deployments:**  
+> * 🌐 **Cloudflare Workers:** [https://curated-tech-feeds.indian-equity-feeds.workers.dev](https://curated-tech-feeds.indian-equity-feeds.workers.dev)
+> * 🐙 **GitHub Pages:** [https://aravind1998.github.io/curated-tech-feeds/](https://aravind1998.github.io/curated-tech-feeds/)
 
 A fast, curated, zero-dependency engineering dashboard aggregating high-signal systems architecture deep dives, distributed systems post-mortems, performance benchmarks, and software design principles from world-class builders.
 
@@ -20,6 +21,8 @@ A fast, curated, zero-dependency engineering dashboard aggregating high-signal s
 | **Martin Fowler** | Martin Fowler & ThoughtWorks | Microservices, event-driven architectures, domain-driven design, refactoring |
 | **Dan Luu** | Dan Luu | Empirical hardware benchmarks, SSD/NVMe latency, CPU caching, post-mortems |
 | **Julia Evans** | Julia Evans (Wizard Zines) | DNS, packet sniffers, Linux syscalls, Git internals, network debugging |
+| **Fareed Khan (Medium)** | Fareed Khan | Visual guides, RAG pipeline architectures, transformer internals, agentic workflows |
+| **Fareed Khan (GitHub)** | Fareed Khan | Open-source AI repositories, LLM implementation benchmarks, systems code |
 | **Simon Willison** | Simon Willison | Practical LLM engineering, prompt injection defenses, modern Python web systems |
 | **Mitchell Hashimoto** | Mitchell Hashimoto | Systems programming in Zig, terminal emulators, macOS graphics engines |
 | **Antirez** | Salvatore Sanfilippo | Redis internals, low-level C programming, generative AI architectures |

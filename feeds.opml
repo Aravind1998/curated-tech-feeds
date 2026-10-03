@@ -55,6 +55,12 @@
       <outline type="rss" text="Datadog Engineering" title="Datadog Engineering" 
                xmlUrl="https://www.datadoghq.com/blog/engineering/index.xml" 
                htmlUrl="https://www.datadoghq.com/blog/engineering/"/>
+      <outline type="rss" text="Fareed Khan (Medium)" title="Fareed Khan (Medium)" 
+               xmlUrl="https://medium.com/feed/@fareedkhandev" 
+               htmlUrl="https://medium.com/@fareedkhandev"/>
+      <outline type="rss" text="Fareed Khan (GitHub)" title="Fareed Khan (GitHub)" 
+               xmlUrl="https://github.com/FareedKhan-dev.atom" 
+               htmlUrl="https://github.com/FareedKhan-dev"/>
     </outline>
   </body>
 </opml>

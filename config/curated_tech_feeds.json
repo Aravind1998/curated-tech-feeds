@@ -161,6 +161,26 @@
       "category": "Observability & Distributed Tracing",
       "color": "#7c3aed",
       "description": "Trillion-event-per-day streaming pipelines, eBPF tracing, Kafka tuning, and real-time metric aggregations."
+    },
+    {
+      "id": "fareed_khan_medium",
+      "name": "Fareed Khan (Medium)",
+      "author": "Fareed Khan",
+      "feed_url": "https://medium.com/feed/@fareedkhandev",
+      "site_url": "https://medium.com/@fareedkhandev",
+      "category": "AI & LLM Architecture",
+      "color": "#059669",
+      "description": "Visual guides, RAG pipeline architectures, transformer internals, and agentic workflows."
+    },
+    {
+      "id": "fareed_khan_github",
+      "name": "Fareed Khan (GitHub)",
+      "author": "Fareed Khan",
+      "feed_url": "https://github.com/FareedKhan-dev.atom",
+      "site_url": "https://github.com/FareedKhan-dev",
+      "category": "AI & Open Source Repos",
+      "color": "#238636",
+      "description": "Open-source AI repositories, LLM implementation benchmarks, and systems code."
     }
   ]
 }
