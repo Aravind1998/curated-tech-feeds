@@ -181,6 +181,56 @@
       "category": "AI & Open Source Repos",
       "color": "#238636",
       "description": "Open-source AI repositories, LLM implementation benchmarks, and systems code."
+    },
+    {
+      "id": "arjun_prabhulal_medium",
+      "name": "Arjun Prabhulal (Medium)",
+      "author": "Arjun Prabhulal",
+      "feed_url": "https://medium.com/feed/@arjun-prabhulal",
+      "site_url": "https://medium.com/@arjun-prabhulal",
+      "category": "AI Agents & Cloud Architecture",
+      "color": "#2563eb",
+      "description": "AI agents, Agent Development Kit (ADK), Model Context Protocol (MCP), and Google Cloud."
+    },
+    {
+      "id": "arjun_prabhulal_github",
+      "name": "Arjun Prabhulal (GitHub)",
+      "author": "Arjun Prabhulal",
+      "feed_url": "https://github.com/arjunprabhulal.atom",
+      "site_url": "https://github.com/arjunprabhulal",
+      "category": "AI Agents & Open Source",
+      "color": "#1d4ed8",
+      "description": "Agentic frameworks, RAG engines, ADK masterclasses, and open-source AI repositories."
+    },
+    {
+      "id": "arjun_prabhulal_blog",
+      "name": "Arjun Prabhulal (Blog)",
+      "author": "Arjun Prabhulal",
+      "feed_url": "https://arjunprabhulal.com/feed.xml",
+      "site_url": "https://arjunprabhulal.com",
+      "category": "AI & Enterprise Systems",
+      "color": "#0284c7",
+      "description": "Deep dives on generative AI agents, enterprise modernization, and semantic search scale."
+    },
+    {
+      "id": "sidu_ponnappa_medium",
+      "name": "Sidu Ponnappa (Medium)",
+      "author": "Sidu Ponnappa",
+      "feed_url": "https://medium.com/feed/@ponnappa",
+      "site_url": "https://medium.com/@ponnappa",
+      "category": "Engineering Leadership & Systems",
+      "color": "#d97706",
+      "description": "Engineering management, software systems scaling, startup architecture, and tech leadership."
+    },
+    {
+      "id": "sidu_ponnappa_github",
+      "name": "Sidu Ponnappa (GitHub)",
+      "author": "Sidu Ponnappa",
+      "feed_url": "https://github.com/kaiwren.atom",
+      "site_url": "https://github.com/kaiwren",
+      "category": "Systems & Open Source",
+      "color": "#b45309",
+      "description": "Open-source software, Clojure, systems architecture, and engineering experiments."
     }
   ]
 }

@@ -23,6 +23,11 @@ A fast, curated, zero-dependency engineering dashboard aggregating high-signal s
 | **Julia Evans** | Julia Evans (Wizard Zines) | DNS, packet sniffers, Linux syscalls, Git internals, network debugging |
 | **Fareed Khan (Medium)** | Fareed Khan | Visual guides, RAG pipeline architectures, transformer internals, agentic workflows |
 | **Fareed Khan (GitHub)** | Fareed Khan | Open-source AI repositories, LLM implementation benchmarks, systems code |
+| **Arjun Prabhulal (Medium)**| Arjun Prabhulal | AI agents, Agent Development Kit (ADK), Model Context Protocol (MCP), GCP |
+| **Arjun Prabhulal (GitHub)**| Arjun Prabhulal | Agentic frameworks, RAG engines, ADK masterclasses, open-source AI repos |
+| **Arjun Prabhulal (Blog)**  | Arjun Prabhulal | Generative AI agents, enterprise modernization, semantic search architecture |
+| **Sidu Ponnappa (Medium)**  | Sidu Ponnappa | Engineering leadership, systems scaling, startup architectures, tech strategy |
+| **Sidu Ponnappa (GitHub)**  | Sidu Ponnappa | Open-source systems, Clojure experiments, distributed software design |
 | **Simon Willison** | Simon Willison | Practical LLM engineering, prompt injection defenses, modern Python web systems |
 | **Mitchell Hashimoto** | Mitchell Hashimoto | Systems programming in Zig, terminal emulators, macOS graphics engines |
 | **Antirez** | Salvatore Sanfilippo | Redis internals, low-level C programming, generative AI architectures |

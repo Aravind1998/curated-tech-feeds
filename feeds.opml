@@ -61,6 +61,21 @@
       <outline type="rss" text="Fareed Khan (GitHub)" title="Fareed Khan (GitHub)" 
                xmlUrl="https://github.com/FareedKhan-dev.atom" 
                htmlUrl="https://github.com/FareedKhan-dev"/>
+      <outline type="rss" text="Arjun Prabhulal (Medium)" title="Arjun Prabhulal (Medium)" 
+               xmlUrl="https://medium.com/feed/@arjun-prabhulal" 
+               htmlUrl="https://medium.com/@arjun-prabhulal"/>
+      <outline type="rss" text="Arjun Prabhulal (GitHub)" title="Arjun Prabhulal (GitHub)" 
+               xmlUrl="https://github.com/arjunprabhulal.atom" 
+               htmlUrl="https://github.com/arjunprabhulal"/>
+      <outline type="rss" text="Arjun Prabhulal (Blog)" title="Arjun Prabhulal (Blog)" 
+               xmlUrl="https://arjunprabhulal.com/feed.xml" 
+               htmlUrl="https://arjunprabhulal.com"/>
+      <outline type="rss" text="Sidu Ponnappa (Medium)" title="Sidu Ponnappa (Medium)" 
+               xmlUrl="https://medium.com/feed/@ponnappa" 
+               htmlUrl="https://medium.com/@ponnappa"/>
+      <outline type="rss" text="Sidu Ponnappa (GitHub)" title="Sidu Ponnappa (GitHub)" 
+               xmlUrl="https://github.com/kaiwren.atom" 
+               htmlUrl="https://github.com/kaiwren"/>
     </outline>
   </body>
 </opml>
