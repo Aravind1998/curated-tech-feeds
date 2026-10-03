@@ -15,7 +15,7 @@
 - `docs/` and `data/`: Cached feed data.
 
 ## Hosting & Deployment
-- **Cloudflare Workers**: `https://curated-tech-feeds.indian-equity-feeds.workers.dev`
+- **Cloudflare Workers**: `https://curated-tech-feeds.aravindsuresh.workers.dev`
   - Deploy command: `npx wrangler deploy`
   - Config: `wrangler.toml` + `worker.js`
 - **GitHub Pages**: `https://aravind1998.github.io/curated-tech-feeds/`

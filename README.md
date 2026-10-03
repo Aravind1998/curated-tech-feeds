@@ -1,7 +1,7 @@
 # ⚡ Curated Tech & Systems Engineering Feed Terminal
 
 > **Live Deployments:**  
-> * 🌐 **Cloudflare Workers:** [https://curated-tech-feeds.indian-equity-feeds.workers.dev](https://curated-tech-feeds.indian-equity-feeds.workers.dev)
+> * 🌐 **Cloudflare Workers:** [https://curated-tech-feeds.aravindsuresh.workers.dev](https://curated-tech-feeds.aravindsuresh.workers.dev)
 > * 🐙 **GitHub Pages:** [https://aravind1998.github.io/curated-tech-feeds/](https://aravind1998.github.io/curated-tech-feeds/)
 
 A fast, curated, zero-dependency engineering dashboard aggregating high-signal systems architecture deep dives, distributed systems post-mortems, performance benchmarks, and software design principles from world-class builders.
