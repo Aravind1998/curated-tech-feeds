@@ -1,265 +1,10 @@
 [
   {
-    "id": "sidu_ponnappa_github_8879448144812051117",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/662d3a3222...7961930aed",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 13, 2026 08:47 1 commit to master 7961930 after-ai-there-is-no-average: cold open power law",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_5536211324885417058",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/b8fa2ff550...9930c1e438",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 13, 2026 08:41 1 commit to master 9930c1e after-ai-there-is-no-average: preface dated view",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_7982434866682815584",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/c0861b7514...de8a40a36d",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:56 1 commit to master de8a40a after-ai-there-is-no-average: §3 role shift and slides into slop",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_2046564001887074479",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/983471b3ce...c7e25d5caa",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:43 1 commit to master c7e25d5 after-ai-there-is-no-average: §1 local equivalent, §2 turn",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_4905001891238292045",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/4d401f559a...983471b3ce",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:27 1 commit to master 983471b after-ai-there-is-no-average: legibility pass (§1, §6, §7, typos)",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_1186964027479621960",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/de8a40a36d...36844ac4df",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 20:02 1 commit to master 36844ac after-ai-there-is-no-average: hallmark is setting up the agent's work",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_2072155871148890271",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/36844ac4df...66f54e05d3",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 20:06 1 commit to master 66f54e0 after-ai-there-is-no-average: §3 one job per paragraph",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_598332328715937844",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/c7e25d5caa...262da4e635",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:49 1 commit to master 262da4e after-ai-there-is-no-average: §2 closer",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_8488374144619566683",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/9930c1e438...662d3a3222",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 13, 2026 08:43 1 commit to master 662d3a3 after-ai-there-is-no-average: cold open rising tide split",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_7214772502658521504",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/5557d4222e...026207a7a0",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 11, 2026 09:06 1 commit to master 026207a After AI, There Is No Average: glazing paragraph (Harsh item 9), §2 c…",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_1002077077783508282",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/9684587f98...b8fa2ff550",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 20:45 1 commit to master b8fa2ff after-ai-there-is-no-average: §3 debt examples",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_8748506500609070016",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/66f54e05d3...9684587f98",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 20:07 1 commit to master 9684587 after-ai-there-is-no-average: works on instinct",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_5977822230676559752",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/262da4e635...c0861b7514",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:50 1 commit to master c0861b7 after-ai-there-is-no-average: cold open either way",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_598332328715937844",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/c7e25d5caa...262da4e635",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:49 1 commit to master 262da4e after-ai-there-is-no-average: §2 closer",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "sidu_ponnappa_github_2806189102212362342",
-    "title": "kaiwren pushed kaiwren.github.com",
-    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/b3edc0d9c8...8098faf392",
-    "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
-    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 11, 2026 09:21 1 commit to master 8098faf After AI, There Is No Average: sourced $30 rate, §4 speed curve (Hars…",
-    "read_time_mins": 2,
-    "source_id": "sidu_ponnappa_github",
-    "source_name": "Sidu Ponnappa (GitHub)",
-    "source_color": "#b45309",
-    "author": "Sidu Ponnappa",
-    "category": "Systems & Open Source",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "arjun_prabhulal_github_5221549326425302043",
+    "id": "arjun_prabhulal_github_6711528443959580055",
     "title": "arjunprabhulal contributed to punkpeye/awesome-mcp-servers",
     "link": "https://github.com/punkpeye/awesome-mcp-servers/pull/16466",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal merged punkpeye/awesome-mcp-servers#16466 · October 17, 2026 16:52 Add superPDF to File Systems #16466 Adds superPDF , a local MCP server for PDFs (TypeScript, runs on macOS, Windows and Linux), to File Systems next to MarkItDown. It reads PDFs into M… +1 -0 4 c...",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -273,11 +18,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_7749652429426900072",
+    "id": "arjun_prabhulal_github_4564578344155135536",
     "title": "arjunprabhulal created a branch",
     "link": "https://github.com/arjunprabhulal/rea/compare/0000000000...02ce137d01",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal created a branch in arjunprabhulal/rea · October 15, 2026 17:10 refs/heads/fix/macho-bind-sleb-oversized in arjunprabhulal/rea Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -290,11 +35,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_3501824322328359367",
+    "id": "arjun_prabhulal_github_5413788953294933410",
     "title": "arjunprabhulal pushed adk-python",
     "link": "https://github.com/arjunprabhulal/adk-python/compare/0caab242a2...56610dd128",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal pushed to fix/function-node-retry-fresh-args in arjunprabhulal/adk-python · October 15, 2026 16:20 1 commit to fix/function-node-retry-fresh-args 56610dd refactor(workflow): annotate the attributes of _ResolvedParameters",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -307,11 +52,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_3439437129309907431",
+    "id": "arjun_prabhulal_github_4374953600601234436",
     "title": "arjunprabhulal pushed webmcp-extension",
     "link": "https://github.com/arjunprabhulal/webmcp-extension/compare/d63010881e...6cfc3b7b99",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal pushed to fix/on-device-continued-turn-history in arjunprabhulal/webmcp-extension · October 15, 2026 15:16 1 commit to fix/on-device-continued-turn-history 6cfc3b7 Leave a stopped on-device turn out in full after it changed sessions",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -324,11 +69,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_8284432895324600645",
+    "id": "arjun_prabhulal_github_5743852897361767406",
     "title": "arjunprabhulal created a branch",
     "link": "https://github.com/arjunprabhulal/mcp-flight-search/compare/0000000000...67faa84ad6",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal created a branch in arjunprabhulal/mcp-flight-search · October 15, 2026 12:09 refs/heads/modernize-mcp-2 in arjunprabhulal/mcp-flight-search Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -341,11 +86,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_7101198650978432271",
+    "id": "arjun_prabhulal_github_4392951059983203768",
     "title": "arjunprabhulal pushed mcp-youtube-search",
     "link": "https://github.com/arjunprabhulal/mcp-youtube-search/compare/a1849814c8...c8dbdf8061",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal pushed to main in arjunprabhulal/mcp-youtube-search · October 15, 2026 12:35 2 commits to main 02af162 feat: MCP Python SDK 2.x, official serpapi client, tests and CI (0.2.0) c8dbdf8 Merge pull request #1 from arjunprabhulal/modernize-mcp-2",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -358,11 +103,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_5173408132541157823",
+    "id": "arjun_prabhulal_github_458330667637439233",
     "title": "arjunprabhulal pushed rea",
     "link": "https://github.com/arjunprabhulal/rea/compare/02ce137d01...0cbabc7d94",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal pushed to fix/macho-bind-sleb-oversized in arjunprabhulal/rea · October 15, 2026 17:38 1 commit to fix/macho-bind-sleb-oversized 0cbabc7 test(native): cover ten-byte SET_ADDEND_SLEB addends at the signed 64…",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -375,11 +120,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_6418341592719685516",
+    "id": "arjun_prabhulal_github_7690008220196227557",
     "title": "arjunprabhulal deleted",
     "link": "https://github.com/arjunprabhulal/awesome-langchain/compare/581018d3e1...0000000000",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal deleted branch refs/heads/add-superpdf in arjunprabhulal/awesome-langchain · October 16, 2026 01:11 arjunprabhulal/awesome-langchain Updated Oct 16",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -392,11 +137,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_830613281930438504",
+    "id": "arjun_prabhulal_github_4672985608799886752",
     "title": "arjunprabhulal created a branch",
     "link": "https://github.com/arjunprabhulal/scientific-agent-skills/compare/0000000000...3d03378bdb",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal created a branch in arjunprabhulal/scientific-agent-skills · October 15, 2026 16:38 refs/heads/fix/jats-body-paragraphs in arjunprabhulal/scientific-agent-skills Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -409,11 +154,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_5891412381357278803",
+    "id": "arjun_prabhulal_github_4233192249395685150",
     "title": "arjunprabhulal created a branch",
     "link": "https://github.com/arjunprabhulal/adk-python/compare/0000000000...83384c5554",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal created a branch in arjunprabhulal/adk-python · October 15, 2026 16:06 refs/heads/fix/task-delegation-with-finish-task in arjunprabhulal/adk-python Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -426,11 +171,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_6292947363021647519",
+    "id": "arjun_prabhulal_github_8832523956404169676",
     "title": "arjunprabhulal created a branch",
     "link": "https://github.com/arjunprabhulal/adk-python/compare/0000000000...0caab242a2",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal created a branch in arjunprabhulal/adk-python · October 15, 2026 16:06 refs/heads/fix/function-node-retry-fresh-args in arjunprabhulal/adk-python Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -443,11 +188,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_4553004392248472049",
+    "id": "arjun_prabhulal_github_5915568487796646631",
     "title": "arjunprabhulal created a branch",
     "link": "https://github.com/arjunprabhulal/rea/compare/0000000000...281d0400b8",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal created a branch in arjunprabhulal/rea · October 15, 2026 17:10 refs/heads/fix/cli-strict-integer-args in arjunprabhulal/rea Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -460,11 +205,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_4057655471464350289",
+    "id": "arjun_prabhulal_github_3990638146121847836",
     "title": "arjunprabhulal created a branch",
     "link": "https://github.com/arjunprabhulal/Awesome-RAG/compare/0000000000...16dd4281d4",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal created a branch in arjunprabhulal/Awesome-RAG · October 15, 2026 02:52 refs/heads/add-superpdf in arjunprabhulal/Awesome-RAG Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -477,11 +222,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_7151861589358300618",
+    "id": "arjun_prabhulal_github_7073480236776831710",
     "title": "arjunprabhulal created a branch",
     "link": "https://github.com/arjunprabhulal/awesome-langchain/compare/0000000000...581018d3e1",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal created a branch in arjunprabhulal/awesome-langchain · October 15, 2026 02:50 refs/heads/add-superpdf in arjunprabhulal/awesome-langchain Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -494,11 +239,11 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_github_8560741083919147298",
+    "id": "arjun_prabhulal_github_4148612379872034930",
     "title": "arjunprabhulal deleted",
     "link": "https://github.com/arjunprabhulal/superpdf/compare/af996f66ee...0000000000",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337782,
+    "timestamp": 1792354748,
     "summary": "arjunprabhulal deleted branch refs/heads/release/0.4.1 in arjunprabhulal/superpdf · October 15, 2026 02:43 arjunprabhulal/superpdf Updated Oct 15",
     "read_time_mins": 2,
     "source_id": "arjun_prabhulal_github",
@@ -511,11 +256,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_8174037975918737349",
+    "id": "fareed_khan_github_6423167678191462411",
     "title": "FareedKhan-dev starred microsoft/VibeVoice",
     "link": "https://github.com/microsoft/VibeVoice",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev starred microsoft/VibeVoice · October 18, 2026 03:21 microsoft/VibeVoice Open-Source Frontier Voice AI Python 54.9k Updated Oct 8",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -528,11 +273,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_3278377165927564943",
+    "id": "fareed_khan_github_4591148415606429137",
     "title": "FareedKhan-dev made this repository public",
     "link": "https://github.com/FareedKhan-dev/dynamic-workflow-agents",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev made FareedKhan-dev/dynamic-workflow-agents public · October 16, 2026 07:40 FareedKhan-dev/dynamic-workflow-agents Claude and Qwen editions of Dynamic Workflows from Scratch Jupyter Notebook Updated Oct 16",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -545,11 +290,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_3085659072563159334",
+    "id": "fareed_khan_github_7351993601701398894",
     "title": "FareedKhan-dev made this repository public",
     "link": "https://github.com/FareedKhan-dev/lean-agent",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev made FareedKhan-dev/lean-agent public · October 6, 2026 20:49 FareedKhan-dev/lean-agent A coding agent that refuses to over-engineer, built from scratch and measured honestly in one course notebook Jupyter Notebook 6 Updated Oct 7",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -562,11 +307,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_5131650058536619849",
+    "id": "fareed_khan_github_6074689895491270060",
     "title": "FareedKhan-dev starred OpenGameMaps/gtasagit",
     "link": "https://github.com/OpenGameMaps/gtasagit",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev starred OpenGameMaps/gtasagit · October 9, 2026 05:37 OpenGameMaps/gtasagit GTASA Maps 16 Updated Apr 14, 2014",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -579,11 +324,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_3964190319144627466",
+    "id": "fareed_khan_github_3886975207545470340",
     "title": "FareedKhan-dev starred zju3dv/GVHMR",
     "link": "https://github.com/zju3dv/GVHMR",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev starred zju3dv/GVHMR · October 9, 2026 00:27 zju3dv/GVHMR Code for \"GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates\", Siggraph Asia 2024, TPAMI 2026 Jupyter Notebook 2.1k Updated Sep 15",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -596,11 +341,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_8522709005878156945",
+    "id": "fareed_khan_github_3678203325389582141",
     "title": "FareedKhan-dev starred openai/NavierStokesAndEuler",
     "link": "https://github.com/openai/NavierStokesAndEuler",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev starred openai/NavierStokesAndEuler · October 8, 2026 20:47 openai/NavierStokesAndEuler Lean certificates accompanying Navier-Stokes and Euler results Lean 2.1k Updated Sep 10",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -613,11 +358,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_579271952262714958",
+    "id": "fareed_khan_github_2139183257831882248",
     "title": "FareedKhan-dev starred Tongyi-MAI/MAI-UI",
     "link": "https://github.com/Tongyi-MAI/MAI-UI",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev starred Tongyi-MAI/MAI-UI · October 6, 2026 10:38 Tongyi-MAI/MAI-UI Qwen-UI-Agent: Towards Next-Generation Real-World Centric Foundation GUI Agent Jupyter Notebook 2.4k Updated Aug 19",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -630,11 +375,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_7987730347042989642",
+    "id": "fareed_khan_github_1197345038111275029",
     "title": "FareedKhan-dev made this repository public",
     "link": "https://github.com/FareedKhan-dev/ai-pc",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev made FareedKhan-dev/ai-pc public · October 5, 2026 04:14 FareedKhan-dev/ai-pc An assistant for Windows that works inside 118 desktop programs and services through code instead of screenshots. It writes each program's own file… Python 12 Updated Oct 13",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -647,11 +392,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_875091836008878802",
+    "id": "fareed_khan_github_1489103134224473679",
     "title": "FareedKhan-dev starred DietrichGebert/ponytail",
     "link": "https://github.com/DietrichGebert/ponytail",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev starred DietrichGebert/ponytail · October 5, 2026 04:25 DietrichGebert/ponytail Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. JavaScript 167k Updated Oct 18",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -664,11 +409,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_310331516654688892",
+    "id": "fareed_khan_github_6018669594761827319",
     "title": "FareedKhan-dev created a branch",
     "link": "https://github.com/FareedKhan-dev/train-llm-from-scratch/compare/0000000000...6892b7ed0f",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev created a branch in FareedKhan-dev/train-llm-from-scratch · October 2, 2026 13:41 refs/heads/update-2026-10 in FareedKhan-dev/train-llm-from-scratch Updated Oct 2",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -681,11 +426,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_5800915763534547261",
+    "id": "fareed_khan_github_152135772175372639",
     "title": "FareedKhan-dev pushed kimi-k3-in-c",
     "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c/compare/fd8bf5219f...81bb6c23cc",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev pushed to main in FareedKhan-dev/kimi-k3-in-c · October 2, 2026 04:51 2 commits to main 7721a1b fix(trunk): charge a prefetched layer to the bind that reaches it 81bb6c2 docs(readme): move the contributor wall to the top",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -698,11 +443,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_3876148425319749674",
+    "id": "fareed_khan_github_6804579159096804426",
     "title": "FareedKhan-dev created a branch",
     "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c/compare/0000000000...1ae4d62c21",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev created a branch in FareedKhan-dev/kimi-k3-in-c · October 2, 2026 03:15 refs/heads/integration/2026-10-02 in FareedKhan-dev/kimi-k3-in-c Updated Oct 2",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -715,11 +460,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_3242679056827915351",
+    "id": "fareed_khan_github_5823819938208121634",
     "title": "FareedKhan-dev pushed kimi-k3-in-c",
     "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c/compare/1ae4d62c21...e5dc42f444",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev pushed to integration/2026-10-02 in FareedKhan-dev/kimi-k3-in-c · October 2, 2026 03:16 1 commit to integration/2026-10-02 e5dc42f docs: say how much free memory a preset needs, not only its peak RSS",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -733,11 +478,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_4282601441685548431",
+    "id": "fareed_khan_github_3793270928276266679",
     "title": "FareedKhan-dev pushed kimi-k3-in-c",
     "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c/compare/358dfcca0e...fd8bf5219f",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev pushed to main in FareedKhan-dev/kimi-k3-in-c · October 2, 2026 04:36 1 commit to main fd8bf52 docs: show contributors and star history in the README",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -750,11 +495,11 @@
     ]
   },
   {
-    "id": "fareed_khan_github_1119538552422507004",
+    "id": "fareed_khan_github_7658348666472572524",
     "title": "FareedKhan-dev pushed kimi-k3-in-c",
     "link": "https://github.com/FareedKhan-dev/kimi-k3-in-c/compare/1025d9e499...358dfcca0e",
     "pub_date": "18 Oct 2026",
-    "timestamp": 1792337781,
+    "timestamp": 1792354748,
     "summary": "FareedKhan-dev pushed to main in FareedKhan-dev/kimi-k3-in-c · October 2, 2026 03:32 1 commit to main 358dfcc docs(contributors): credit Deobot2 for the trunk pinning work",
     "read_time_mins": 2,
     "source_id": "fareed_khan_github",
@@ -767,7 +512,262 @@
     ]
   },
   {
-    "id": "bytebytego_1468653934767480894",
+    "id": "sidu_ponnappa_github_6476633150539220404",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/662d3a3222...7961930aed",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 13, 2026 08:47 1 commit to master 7961930 after-ai-there-is-no-average: cold open power law",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_6994535314274118151",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/b8fa2ff550...9930c1e438",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 13, 2026 08:41 1 commit to master 9930c1e after-ai-there-is-no-average: preface dated view",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_5708167975977845987",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/c0861b7514...de8a40a36d",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:56 1 commit to master de8a40a after-ai-there-is-no-average: §3 role shift and slides into slop",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_492526072130338040",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/983471b3ce...c7e25d5caa",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:43 1 commit to master c7e25d5 after-ai-there-is-no-average: §1 local equivalent, §2 turn",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_7936529364065320355",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/4d401f559a...983471b3ce",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:27 1 commit to master 983471b after-ai-there-is-no-average: legibility pass (§1, §6, §7, typos)",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_8511682292690182057",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/de8a40a36d...36844ac4df",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 20:02 1 commit to master 36844ac after-ai-there-is-no-average: hallmark is setting up the agent's work",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_2626178459701222631",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/36844ac4df...66f54e05d3",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 20:06 1 commit to master 66f54e0 after-ai-there-is-no-average: §3 one job per paragraph",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_4606027182752183814",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/c7e25d5caa...262da4e635",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:49 1 commit to master 262da4e after-ai-there-is-no-average: §2 closer",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_3870149652196923137",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/9930c1e438...662d3a3222",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 13, 2026 08:43 1 commit to master 662d3a3 after-ai-there-is-no-average: cold open rising tide split",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_3733110409357494295",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/5557d4222e...026207a7a0",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 11, 2026 09:06 1 commit to master 026207a After AI, There Is No Average: glazing paragraph (Harsh item 9), §2 c…",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_5187915031950520729",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/9684587f98...b8fa2ff550",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 20:45 1 commit to master b8fa2ff after-ai-there-is-no-average: §3 debt examples",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_6260578764456446012",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/66f54e05d3...9684587f98",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 20:07 1 commit to master 9684587 after-ai-there-is-no-average: works on instinct",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_5942455930527725784",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/262da4e635...c0861b7514",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:50 1 commit to master c0861b7 after-ai-there-is-no-average: cold open either way",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_4606027182752183814",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/c7e25d5caa...262da4e635",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 12, 2026 19:49 1 commit to master 262da4e after-ai-there-is-no-average: §2 closer",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "sidu_ponnappa_github_4093034282178235481",
+    "title": "kaiwren pushed kaiwren.github.com",
+    "link": "https://github.com/kaiwren/kaiwren.github.com/compare/b3edc0d9c8...8098faf392",
+    "pub_date": "18 Oct 2026",
+    "timestamp": 1792354748,
+    "summary": "kaiwren pushed to master in kaiwren/kaiwren.github.com · October 11, 2026 09:21 1 commit to master 8098faf After AI, There Is No Average: sourced $30 rate, §4 speed curve (Hars…",
+    "read_time_mins": 2,
+    "source_id": "sidu_ponnappa_github",
+    "source_name": "Sidu Ponnappa (GitHub)",
+    "source_color": "#b45309",
+    "author": "Sidu Ponnappa",
+    "category": "Systems & Open Source",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "bytebytego_3369762797178314424",
     "title": "EP229: 8 Chunking strategies for RAG-based agents",
     "link": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
     "pub_date": "17 Oct 2026",
@@ -786,7 +786,7 @@
     ]
   },
   {
-    "id": "netflix_1137045112630838461",
+    "id": "netflix_4598007041781417234",
     "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
     "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
     "pub_date": "16 Oct 2026",
@@ -804,7 +804,7 @@
     ]
   },
   {
-    "id": "cloudflare_6325220181664731070",
+    "id": "cloudflare_1446800988842343896",
     "title": "Continuous accountability for Verified bots",
     "link": "https://blog.cloudflare.com/verified-bots-accountability/",
     "pub_date": "16 Oct 2026",
@@ -821,7 +821,7 @@
     ]
   },
   {
-    "id": "stripe_eng_2423548341955130194",
+    "id": "stripe_eng_3705841531651975194",
     "title": "New ways for fintechs to move money and expand globally",
     "link": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
     "pub_date": "16 Oct 2026",
@@ -838,7 +838,7 @@
     ]
   },
   {
-    "id": "meta_eng_1844155042510654305",
+    "id": "meta_eng_4070835879720340250",
     "title": "How Meta Built Forum With AI-Native Engineering",
     "link": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
     "pub_date": "15 Oct 2026",
@@ -855,7 +855,7 @@
     ]
   },
   {
-    "id": "meta_eng_6956228587364457618",
+    "id": "meta_eng_2346689363777894589",
     "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
     "link": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
     "pub_date": "15 Oct 2026",
@@ -872,7 +872,7 @@
     ]
   },
   {
-    "id": "github_eng_6961466364629220455",
+    "id": "github_eng_1444492780675021360",
     "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
     "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
     "pub_date": "15 Oct 2026",
@@ -889,7 +889,7 @@
     ]
   },
   {
-    "id": "cloudflare_9074123534580804250",
+    "id": "cloudflare_3590072931062582528",
     "title": "A fully programmable secure web gateway",
     "link": "https://blog.cloudflare.com/programmable-gateway-dlp/",
     "pub_date": "15 Oct 2026",
@@ -906,7 +906,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_6887000966909699398",
+    "id": "pragmatic_eng_7886316811215202213",
     "title": "The Pulse: OpenAI software engineer accused of spying",
     "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
     "pub_date": "15 Oct 2026",
@@ -923,7 +923,7 @@
     ]
   },
   {
-    "id": "meta_eng_5603083799635710425",
+    "id": "meta_eng_5093826384117256642",
     "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
     "link": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
     "pub_date": "15 Oct 2026",
@@ -940,7 +940,7 @@
     ]
   },
   {
-    "id": "aws_arch_2150642582096380505",
+    "id": "aws_arch_3581226766927314485",
     "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
     "link": "https://aws.amazon.com/blogs/architecture/how-dynata-scaled-ai-across-the-development-lifecycle-with-ai-dlc-and-kiro-ide/",
     "pub_date": "15 Oct 2026",
@@ -958,7 +958,7 @@
     ]
   },
   {
-    "id": "bytebytego_6923385845761212214",
+    "id": "bytebytego_7834488740400706968",
     "title": "How to Design for Failures",
     "link": "https://blog.bytebytego.com/p/how-to-design-for-failures",
     "pub_date": "15 Oct 2026",
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "id": "cloudflare_7729386926859717183",
+    "id": "cloudflare_209613649784936038",
     "title": "Deploy with Void",
     "link": "https://blog.cloudflare.com/deploy-with-void/",
     "pub_date": "15 Oct 2026",
@@ -992,7 +992,7 @@
     ]
   },
   {
-    "id": "cloudflare_2838735582854926129",
+    "id": "cloudflare_877090473845696327",
     "title": "Cloudflare and OpenAI: Making AI discovery better for everyone",
     "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
     "pub_date": "15 Oct 2026",
@@ -1009,7 +1009,7 @@
     ]
   },
   {
-    "id": "martin_fowler_4827096452459993945",
+    "id": "martin_fowler_9206919986515538305",
     "title": "When Software Meets Hardware",
     "link": "https://martinfowler.com/articles/software-meets-hardware.html",
     "pub_date": "15 Oct 2026",
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "id": "stripe_eng_435317131154905108",
+    "id": "stripe_eng_5162873650424376793",
     "title": "Sync real-time Stripe data to Postgres with Stripe Data Pipeline",
     "link": "https://stripe.com/blog/real-time-stripe-data-postgres",
     "pub_date": "15 Oct 2026",
@@ -1043,7 +1043,7 @@
     ]
   },
   {
-    "id": "cloudflare_6294383359517192155",
+    "id": "cloudflare_2255031198689050307",
     "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
     "link": "https://blog.cloudflare.com/yandex-outage/",
     "pub_date": "14 Oct 2026",
@@ -1060,7 +1060,7 @@
     ]
   },
   {
-    "id": "netflix_6109668125377277307",
+    "id": "netflix_7060570682317245694",
     "title": "Integrating Netflix’s Foundation Model into Personalization applications",
     "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1077,7 +1077,7 @@
     ]
   },
   {
-    "id": "netflix_1637821977828323533",
+    "id": "netflix_1099497606222690088",
     "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
     "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1094,7 +1094,7 @@
     ]
   },
   {
-    "id": "netflix_772092636708225395",
+    "id": "netflix_7021426584769919682",
     "title": "Measuring the Impact of Personalized Recommendations",
     "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1111,7 +1111,7 @@
     ]
   },
   {
-    "id": "netflix_8556216682859933342",
+    "id": "netflix_9056661420571971603",
     "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
     "link": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1130,7 +1130,7 @@
     ]
   },
   {
-    "id": "netflix_1726478097117464001",
+    "id": "netflix_8545092514896404676",
     "title": "Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II",
     "link": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1147,7 +1147,7 @@
     ]
   },
   {
-    "id": "netflix_6724869853296836971",
+    "id": "netflix_7421106784581816153",
     "title": "Netflix Conductor: The Next Chapter",
     "link": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1164,7 +1164,7 @@
     ]
   },
   {
-    "id": "netflix_5062420674423428664",
+    "id": "netflix_4712613082490267355",
     "title": "Running Apache Spark experiments in my sleep (and on a plane)",
     "link": "https://netflixtechblog.com/running-apache-spark-experiments-in-my-sleep-and-on-a-plane-588816b6b5f8?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1181,7 +1181,7 @@
     ]
   },
   {
-    "id": "netflix_2164832313094131078",
+    "id": "netflix_9060258515932976953",
     "title": "The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",
     "link": "https://netflixtechblog.com/the-lifecycle-of-llm-as-a-judge-building-aligning-and-monitoring-at-scale-c95bd8283508?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1200,7 +1200,7 @@
     ]
   },
   {
-    "id": "netflix_298191762376732563",
+    "id": "netflix_8079507343730837181",
     "title": "Netflix Stratum Media Processing: Automated Container Right-Sizing",
     "link": "https://netflixtechblog.com/netflix-stratum-media-processing-automated-container-right-sizing-ddf9aa68a801?source=rss----2615bd06b42e---4",
     "pub_date": "14 Oct 2026",
@@ -1219,7 +1219,7 @@
     ]
   },
   {
-    "id": "github_eng_3998129212617693583",
+    "id": "github_eng_5759532289219481669",
     "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
     "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
     "pub_date": "14 Oct 2026",
@@ -1236,7 +1236,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_5846999837949389699",
+    "id": "pragmatic_eng_372082897313238734",
     "title": "Uber’s AI infra, from the inside",
     "link": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
     "pub_date": "14 Oct 2026",
@@ -1254,7 +1254,7 @@
     ]
   },
   {
-    "id": "bytebytego_8536729541967147870",
+    "id": "bytebytego_5583419192624366110",
     "title": "The Terminator Problem: How Teaching an LLM One Bad Habit Can Change Its Behavior",
     "link": "https://blog.bytebytego.com/p/the-terminator-problem-how-teaching",
     "pub_date": "14 Oct 2026",
@@ -1272,7 +1272,7 @@
     ]
   },
   {
-    "id": "aws_arch_8885862494868601163",
+    "id": "aws_arch_3099100825184155511",
     "title": "Multi-region disaster recovery for Amazon API Gateway WebSocket APIs",
     "link": "https://aws.amazon.com/blogs/architecture/multi-region-disaster-recovery-for-amazon-api-gateway-websocket-apis/",
     "pub_date": "14 Oct 2026",
@@ -1289,7 +1289,7 @@
     ]
   },
   {
-    "id": "aws_arch_5238776464474177987",
+    "id": "aws_arch_3030175906150206459",
     "title": "How UTS established a modern curriculum data services foundation on AWS",
     "link": "https://aws.amazon.com/blogs/architecture/how-uts-established-a-modern-curriculum-data-services-foundation-on-aws/",
     "pub_date": "14 Oct 2026",
@@ -1306,7 +1306,7 @@
     ]
   },
   {
-    "id": "cloudflare_4296358699397691457",
+    "id": "cloudflare_224632455301537707",
     "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
     "link": "https://blog.cloudflare.com/hyperdrive-mysql/",
     "pub_date": "14 Oct 2026",
@@ -1323,7 +1323,7 @@
     ]
   },
   {
-    "id": "martin_fowler_4769778396747705261",
+    "id": "martin_fowler_1924292749436260895",
     "title": "Build your slide template",
     "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
     "pub_date": "14 Oct 2026",
@@ -1340,7 +1340,7 @@
     ]
   },
   {
-    "id": "aws_arch_1285704786270796284",
+    "id": "aws_arch_9191974524100909990",
     "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
     "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
     "pub_date": "13 Oct 2026",
@@ -1359,7 +1359,7 @@
     ]
   },
   {
-    "id": "cloudflare_2166873544988945158",
+    "id": "cloudflare_3249870791534346752",
     "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
     "link": "https://blog.cloudflare.com/d1-control-plane/",
     "pub_date": "13 Oct 2026",
@@ -1378,7 +1378,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_4552143632058800399",
+    "id": "pragmatic_eng_2120578930059181386",
     "title": "Building resilient AI-powered software, and planning for when things go wrong",
     "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
     "pub_date": "13 Oct 2026",
@@ -1396,7 +1396,7 @@
     ]
   },
   {
-    "id": "meta_eng_1739667485920052734",
+    "id": "meta_eng_256409789931394907",
     "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
     "link": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
     "pub_date": "13 Oct 2026",
@@ -1414,7 +1414,7 @@
     ]
   },
   {
-    "id": "cloudflare_1165757774647376423",
+    "id": "cloudflare_1498624328006020095",
     "title": "Rewinding the exponential: How we keep hardware usage down",
     "link": "https://blog.cloudflare.com/rewinding-the-exponential/",
     "pub_date": "13 Oct 2026",
@@ -1433,7 +1433,7 @@
     ]
   },
   {
-    "id": "bytebytego_5302307767017299031",
+    "id": "bytebytego_4074484398364348026",
     "title": "How the Math Used in 19th-Century Heat Physics Helps LLMs Understand Sentences",
     "link": "https://blog.bytebytego.com/p/how-the-math-used-in-19th-century",
     "pub_date": "13 Oct 2026",
@@ -1450,7 +1450,7 @@
     ]
   },
   {
-    "id": "aws_arch_1279176350668227735",
+    "id": "aws_arch_703609085410491306",
     "title": "Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS",
     "link": "https://aws.amazon.com/blogs/architecture/stopping-business-email-compromise-with-ai-driven-email-security-how-vipre-protects-modern-enterprises-on-aws/",
     "pub_date": "13 Oct 2026",
@@ -1469,7 +1469,7 @@
     ]
   },
   {
-    "id": "aws_arch_4108764543589616683",
+    "id": "aws_arch_1714752614249822682",
     "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
     "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
     "pub_date": "13 Oct 2026",
@@ -1486,7 +1486,7 @@
     ]
   },
   {
-    "id": "martin_fowler_4460956598947866328",
+    "id": "martin_fowler_2871755950016301194",
     "title": "The Craft of Practitioner Voice",
     "link": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
     "pub_date": "13 Oct 2026",
@@ -1503,7 +1503,7 @@
     ]
   },
   {
-    "id": "martin_fowler_8897567396820366860",
+    "id": "martin_fowler_7642461677198374432",
     "title": "Are Harnesses Worth the Cost?",
     "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
     "pub_date": "13 Oct 2026",
@@ -1520,7 +1520,7 @@
     ]
   },
   {
-    "id": "stripe_eng_2673696992903462935",
+    "id": "stripe_eng_5653528165760833303",
     "title": "The “alien” economics of AI monetization",
     "link": "https://stripe.com/blog/economics-of-ai-monetization",
     "pub_date": "13 Oct 2026",
@@ -1538,7 +1538,7 @@
     ]
   },
   {
-    "id": "meta_eng_7911071227228923021",
+    "id": "meta_eng_3544418097589937880",
     "title": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and Scale-Across Networks",
     "link": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/",
     "pub_date": "12 Oct 2026",
@@ -1557,7 +1557,7 @@
     ]
   },
   {
-    "id": "simon_willison_1125309231369522650",
+    "id": "simon_willison_7579489902461335709",
     "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
     "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
     "pub_date": "12 Oct 2026",
@@ -1574,7 +1574,7 @@
     ]
   },
   {
-    "id": "meta_eng_7368403747450963557",
+    "id": "meta_eng_4032892501298616633",
     "title": "Shipping Media Over QUIC at Meta Scale for Instagram Live Ingest",
     "link": "https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/",
     "pub_date": "12 Oct 2026",
@@ -1592,7 +1592,7 @@
     ]
   },
   {
-    "id": "meta_eng_3451866791287743483",
+    "id": "meta_eng_7378167717691851243",
     "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
     "link": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
     "pub_date": "12 Oct 2026",
@@ -1609,7 +1609,7 @@
     ]
   },
   {
-    "id": "bytebytego_2686188721426595187",
+    "id": "bytebytego_6389762985713731506",
     "title": "How to Build Models Without Language, with Logical Intelligence",
     "link": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
     "pub_date": "12 Oct 2026",
@@ -1626,7 +1626,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_7839086970662698438",
+    "id": "fareed_khan_medium_4937929281623504283",
     "title": "Fixing Over-Engineering in LLM Coding Agents",
     "link": "https://levelup.gitconnected.com/fixing-over-engineering-in-llm-coding-agents-12e31ec83e9b?source=rss-b856005e5ecd------2",
     "pub_date": "12 Oct 2026",
@@ -1643,7 +1643,7 @@
     ]
   },
   {
-    "id": "cloudflare_5436747754138134834",
+    "id": "cloudflare_7475669045841213908",
     "title": "Filter, reshape, and redact logs before export with Transformers",
     "link": "https://blog.cloudflare.com/transformers-on-logpush/",
     "pub_date": "12 Oct 2026",
@@ -1660,7 +1660,7 @@
     ]
   },
   {
-    "id": "aws_arch_5326690103574495744",
+    "id": "aws_arch_1401110907997162847",
     "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
     "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
     "pub_date": "12 Oct 2026",
@@ -1679,7 +1679,7 @@
     ]
   },
   {
-    "id": "cloudflare_2512136335700046586",
+    "id": "cloudflare_2685879880944234894",
     "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
     "link": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
     "pub_date": "09 Oct 2026",
@@ -1696,7 +1696,7 @@
     ]
   },
   {
-    "id": "cloudflare_1211156110837262097",
+    "id": "cloudflare_8812810040507504908",
     "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
     "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
     "pub_date": "09 Oct 2026",
@@ -1714,7 +1714,7 @@
     ]
   },
   {
-    "id": "simon_willison_7683197480952425207",
+    "id": "simon_willison_6862348874316984400",
     "title": "A new feature for my blog, built using my voice",
     "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
     "pub_date": "09 Oct 2026",
@@ -1731,7 +1731,7 @@
     ]
   },
   {
-    "id": "cloudflare_8317835324325450382",
+    "id": "cloudflare_4567967424007069836",
     "title": "Deno is joining Cloudflare",
     "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
     "pub_date": "09 Oct 2026",
@@ -1748,7 +1748,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_192136618669836313",
+    "id": "pragmatic_eng_2499598742443234616",
     "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
     "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
     "pub_date": "08 Oct 2026",
@@ -1765,7 +1765,7 @@
     ]
   },
   {
-    "id": "bytebytego_5545095313253527234",
+    "id": "bytebytego_5575220510953584060",
     "title": "How Software Boundaries Are The Most Important Skill for Developers",
     "link": "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most",
     "pub_date": "08 Oct 2026",
@@ -1782,7 +1782,7 @@
     ]
   },
   {
-    "id": "cloudflare_4844514864044688610",
+    "id": "cloudflare_7795848686707202452",
     "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
     "link": "https://blog.cloudflare.com/radar-redesign/",
     "pub_date": "08 Oct 2026",
@@ -1799,7 +1799,7 @@
     ]
   },
   {
-    "id": "simon_willison_7927253278190155965",
+    "id": "simon_willison_8987769955644832899",
     "title": "Claude Haiku 5.5",
     "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
     "pub_date": "07 Oct 2026",
@@ -1816,7 +1816,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_8880007929322928716",
+    "id": "pragmatic_eng_7754723506631574141",
     "title": "Building resilient systems with Sam Newman",
     "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
     "pub_date": "07 Oct 2026",
@@ -1834,7 +1834,7 @@
     ]
   },
   {
-    "id": "cloudflare_320356959902399945",
+    "id": "cloudflare_6156993384021674568",
     "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
     "link": "https://blog.cloudflare.com/agentic-security-operations/",
     "pub_date": "07 Oct 2026",
@@ -1851,7 +1851,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_7177342790623306881",
+    "id": "fareed_khan_medium_9009966577079023974",
     "title": "Building Fast Computer Agents to Solve Complex Tasks",
     "link": "https://levelup.gitconnected.com/building-fast-computer-agents-to-solve-complex-tasks-cf2bda5c54e7?source=rss-b856005e5ecd------2",
     "pub_date": "07 Oct 2026",
@@ -1868,7 +1868,7 @@
     ]
   },
   {
-    "id": "bytebytego_1904054979543019973",
+    "id": "bytebytego_5282900404188411202",
     "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
     "link": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
     "pub_date": "07 Oct 2026",
@@ -1886,7 +1886,7 @@
     ]
   },
   {
-    "id": "github_eng_8905113834286511340",
+    "id": "github_eng_1236172688245483128",
     "title": "Building Git infrastructure for agent-scale development",
     "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
     "pub_date": "06 Oct 2026",
@@ -1904,7 +1904,7 @@
     ]
   },
   {
-    "id": "cloudflare_2294974183392544222",
+    "id": "cloudflare_6474635312683995340",
     "title": "The keys to the Internet change on October 11. Are you ready?",
     "link": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
     "pub_date": "06 Oct 2026",
@@ -1921,7 +1921,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_769894692210410311",
+    "id": "pragmatic_eng_573901867373208405",
     "title": "The state of the tech industry in 2026",
     "link": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
     "pub_date": "06 Oct 2026",
@@ -1938,7 +1938,7 @@
     ]
   },
   {
-    "id": "meta_eng_7121930343618607500",
+    "id": "meta_eng_8412199068310893468",
     "title": "NTS: Authenticated Time at Meta",
     "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
     "pub_date": "06 Oct 2026",
@@ -1955,7 +1955,7 @@
     ]
   },
   {
-    "id": "bytebytego_8266569719144765354",
+    "id": "bytebytego_5340422318125778230",
     "title": "Why LLMs Agree With You Even When You’re Wrong",
     "link": "https://blog.bytebytego.com/p/why-llms-agree-with-you-even-when",
     "pub_date": "06 Oct 2026",
@@ -1973,7 +1973,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_7865358002059307058",
+    "id": "mitchell_hashimoto_120441013254328385",
     "title": "A Terminal Protocol for Program Status (OSC 7501)",
     "link": "https://mitchellh.com/writing/program-status-osc7501",
     "pub_date": "06 Oct 2026",
@@ -1990,7 +1990,7 @@
     ]
   },
   {
-    "id": "aws_arch_7452316540102719277",
+    "id": "aws_arch_2799871444957134312",
     "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
     "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
     "pub_date": "05 Oct 2026",
@@ -2007,7 +2007,7 @@
     ]
   },
   {
-    "id": "bytebytego_2616015387886026504",
+    "id": "bytebytego_6607056138132743922",
     "title": "The LLM Blindspot: Why Models Forget What’s in the Middle of Your Prompt",
     "link": "https://blog.bytebytego.com/p/the-llm-blindspot-why-models-forget",
     "pub_date": "05 Oct 2026",
@@ -2024,7 +2024,7 @@
     ]
   },
   {
-    "id": "martin_fowler_5965600494320549898",
+    "id": "martin_fowler_8422336212491335492",
     "title": "Fragments: October 4",
     "link": "https://martinfowler.com/fragments/2026-10-04.html",
     "pub_date": "04 Oct 2026",
@@ -2041,7 +2041,7 @@
     ]
   },
   {
-    "id": "bytebytego_7232984735865243708",
+    "id": "bytebytego_2650932158417243250",
     "title": "Last 3 days: AI Evals, October cohort",
     "link": "https://blog.bytebytego.com/p/new-course-ai-evals-in-practice-starts",
     "pub_date": "04 Oct 2026",
@@ -2058,7 +2058,7 @@
     ]
   },
   {
-    "id": "simon_willison_5246579653716892393",
+    "id": "simon_willison_3955538623500251080",
     "title": "We're going to need default hard budget caps on pretty much everything",
     "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
     "pub_date": "03 Oct 2026",
@@ -2075,7 +2075,7 @@
     ]
   },
   {
-    "id": "bytebytego_1589288061779876856",
+    "id": "bytebytego_1275531845357785135",
     "title": "EP228: How SSH Works",
     "link": "https://blog.bytebytego.com/p/ep228-how-ssh-works",
     "pub_date": "03 Oct 2026",
@@ -2092,7 +2092,7 @@
     ]
   },
   {
-    "id": "aws_arch_7520964375362955284",
+    "id": "aws_arch_8088672772290589099",
     "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
     "link": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/",
     "pub_date": "02 Oct 2026",
@@ -2109,7 +2109,7 @@
     ]
   },
   {
-    "id": "aws_arch_8924119055303911648",
+    "id": "aws_arch_1774540228314518800",
     "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
     "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
     "pub_date": "02 Oct 2026",
@@ -2127,7 +2127,7 @@
     ]
   },
   {
-    "id": "aws_arch_5437532692978528145",
+    "id": "aws_arch_4186426194373285420",
     "title": "Deploy open source Regional availability tools in your VPC",
     "link": "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/",
     "pub_date": "02 Oct 2026",
@@ -2146,7 +2146,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_7749384131254808870",
+    "id": "pragmatic_eng_8041296391913766331",
     "title": "The Pulse: Firebase’s global outage & poor response",
     "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
     "pub_date": "01 Oct 2026",
@@ -2163,7 +2163,7 @@
     ]
   },
   {
-    "id": "aws_arch_2197371518618689093",
+    "id": "aws_arch_5580215055523602180",
     "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
     "link": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/",
     "pub_date": "01 Oct 2026",
@@ -2181,7 +2181,7 @@
     ]
   },
   {
-    "id": "bytebytego_7774468664530235167",
+    "id": "bytebytego_8460501450551789117",
     "title": "Why State is the Hardest Thing in Software Design",
     "link": "https://blog.bytebytego.com/p/why-state-is-the-hardest-thing-in",
     "pub_date": "01 Oct 2026",
@@ -2198,7 +2198,24 @@
     ]
   },
   {
-    "id": "datadog_eng_3115239009363495545",
+    "id": "stripe_eng_1516223419022621134",
+    "title": "Why I tried to kill token billing (and why we kept it)",
+    "link": "https://stripe.com/blog/where-pricing-is-headed",
+    "pub_date": "01 Oct 2026",
+    "timestamp": 1790812800,
+    "summary": "Token billing is useful infrastructure, but usually a bad customer-facing pricing model. Your invoice should define the value your product delivers, not break down what it cost you to create it.",
+    "read_time_mins": 2,
+    "source_id": "stripe_eng",
+    "source_name": "Stripe Engineering",
+    "source_color": "#635bff",
+    "author": "Stripe Engineering",
+    "category": "Financial Infrastructure & Reliability",
+    "topics": [
+      "Financial Infrastructure"
+    ]
+  },
+  {
+    "id": "datadog_eng_681154833069494813",
     "title": "How we extended Apache DataFusion to execute one query across many machines",
     "link": "https://www.datadoghq.com/blog/engineering/distributed-datafusion/",
     "pub_date": "01 Oct 2026",
@@ -2217,24 +2234,7 @@
     ]
   },
   {
-    "id": "stripe_eng_8652322207833445029",
-    "title": "Why I tried to kill token billing (and why we kept it)",
-    "link": "https://stripe.com/blog/where-pricing-is-headed",
-    "pub_date": "01 Oct 2026",
-    "timestamp": 1790812800,
-    "summary": "Token billing is useful infrastructure, but usually a bad customer-facing pricing model. Your invoice should define the value your product delivers, not break down what it cost you to create it.",
-    "read_time_mins": 2,
-    "source_id": "stripe_eng",
-    "source_name": "Stripe Engineering",
-    "source_color": "#635bff",
-    "author": "Stripe Engineering",
-    "category": "Financial Infrastructure & Reliability",
-    "topics": [
-      "Financial Infrastructure"
-    ]
-  },
-  {
-    "id": "aws_arch_6364474160351765813",
+    "id": "aws_arch_7099653770092457287",
     "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
     "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
     "pub_date": "30 Sep 2026",
@@ -2251,7 +2251,7 @@
     ]
   },
   {
-    "id": "aws_arch_6787647787773980409",
+    "id": "aws_arch_8275088006771064856",
     "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
     "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
     "pub_date": "30 Sep 2026",
@@ -2268,7 +2268,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_5743352103867269694",
+    "id": "pragmatic_eng_6937263293533810381",
     "title": "Distributed databases with Peter Mattis",
     "link": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
     "pub_date": "30 Sep 2026",
@@ -2286,7 +2286,7 @@
     ]
   },
   {
-    "id": "bytebytego_4086264496120424732",
+    "id": "bytebytego_9198435258518451519",
     "title": "How DoorDash Built a Toolbox for AI Agents",
     "link": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
     "pub_date": "30 Sep 2026",
@@ -2303,7 +2303,7 @@
     ]
   },
   {
-    "id": "martin_fowler_9146544606620464935",
+    "id": "martin_fowler_6853779717294044047",
     "title": "Principles for effective slides",
     "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
     "pub_date": "30 Sep 2026",
@@ -2320,24 +2320,7 @@
     ]
   },
   {
-    "id": "datadog_eng_1040127456440044572",
-    "title": "How we built an async-aware Python profiler",
-    "link": "https://www.datadoghq.com/blog/engineering/async-python-profiler/",
-    "pub_date": "30 Sep 2026",
-    "timestamp": 1790726400,
-    "summary": "Learn how we made Python profiling async-aware while reducing profiler overhead and preserving context across asyncio tasks.",
-    "read_time_mins": 2,
-    "source_id": "datadog_eng",
-    "source_name": "Datadog Engineering",
-    "source_color": "#7c3aed",
-    "author": "Datadog Engineering",
-    "category": "Observability & Distributed Tracing",
-    "topics": [
-      "Performance"
-    ]
-  },
-  {
-    "id": "stripe_eng_4419603506069297003",
+    "id": "stripe_eng_884810872876422727",
     "title": "OUSD is now the default stablecoin on Stripe",
     "link": "https://stripe.com/blog/ousd-now-live-on-stripe",
     "pub_date": "30 Sep 2026",
@@ -2354,7 +2337,24 @@
     ]
   },
   {
-    "id": "simon_willison_9071614449400689055",
+    "id": "datadog_eng_6283361182812517583",
+    "title": "How we built an async-aware Python profiler",
+    "link": "https://www.datadoghq.com/blog/engineering/async-python-profiler/",
+    "pub_date": "30 Sep 2026",
+    "timestamp": 1790726400,
+    "summary": "Learn how we made Python profiling async-aware while reducing profiler overhead and preserving context across asyncio tasks.",
+    "read_time_mins": 2,
+    "source_id": "datadog_eng",
+    "source_name": "Datadog Engineering",
+    "source_color": "#7c3aed",
+    "author": "Datadog Engineering",
+    "category": "Observability & Distributed Tracing",
+    "topics": [
+      "Performance"
+    ]
+  },
+  {
+    "id": "simon_willison_6695693703359040724",
     "title": "OpenAI DevDay 2026 live blog",
     "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
     "pub_date": "29 Sep 2026",
@@ -2371,7 +2371,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_1307027821001471241",
+    "id": "pragmatic_eng_2821504434572376474",
     "title": "Why has Shopify dropped React Native?",
     "link": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
     "pub_date": "29 Sep 2026",
@@ -2388,7 +2388,7 @@
     ]
   },
   {
-    "id": "bytebytego_5976782791325690449",
+    "id": "bytebytego_3981791531285730785",
     "title": "Why Do LLMs Lie?",
     "link": "https://blog.bytebytego.com/p/why-do-llms-lie",
     "pub_date": "29 Sep 2026",
@@ -2405,7 +2405,7 @@
     ]
   },
   {
-    "id": "aws_arch_4698776247172957081",
+    "id": "aws_arch_4052349127377864232",
     "title": "Build adaptive AI interfaces with the AG-UI protocol, agent swarms, and Nova Act on AWS",
     "link": "https://aws.amazon.com/blogs/architecture/build-adaptive-ai-interfaces-with-the-ag-ui-protocol-agent-swarms-and-nova-act-on-aws/",
     "pub_date": "29 Sep 2026",
@@ -2423,7 +2423,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_7918618921636247884",
+    "id": "dropbox_tech_8429792946849249657",
     "title": "Evolving our calendar assistant Reclaim to be AI-native without starting over",
     "link": "https://dropbox.tech/machine-learning/evolving-calendar-assistant-reclaim-to-be-ai-native",
     "pub_date": "29 Sep 2026",
@@ -2440,7 +2440,7 @@
     ]
   },
   {
-    "id": "martin_fowler_4946427860510397700",
+    "id": "martin_fowler_1316317637646960493",
     "title": "Bliki: Sensible Default",
     "link": "https://martinfowler.com/bliki/SensibleDefault.html",
     "pub_date": "29 Sep 2026",
@@ -2457,7 +2457,7 @@
     ]
   },
   {
-    "id": "martin_fowler_9178436816915161096",
+    "id": "martin_fowler_1628078469473955868",
     "title": "Fragments: September 29",
     "link": "https://martinfowler.com/fragments/2026-09-29.html",
     "pub_date": "29 Sep 2026",
@@ -2474,7 +2474,7 @@
     ]
   },
   {
-    "id": "stripe_eng_4232313550337704157",
+    "id": "stripe_eng_8401215899100949965",
     "title": "Helping personal agents shop more intelligently and reliably with Link",
     "link": "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link",
     "pub_date": "29 Sep 2026",
@@ -2491,7 +2491,7 @@
     ]
   },
   {
-    "id": "bytebytego_6319447704520233014",
+    "id": "bytebytego_2806252042924792294",
     "title": "AI Agents Can Think. Now They Can Pay.",
     "link": "https://blog.bytebytego.com/p/ai-agents-can-think-now-they-can",
     "pub_date": "28 Sep 2026",
@@ -2509,7 +2509,7 @@
     ]
   },
   {
-    "id": "stripe_eng_1562152405587643890",
+    "id": "stripe_eng_7811830220790183199",
     "title": "Travel’s AI dilemma at Skift Global Forum",
     "link": "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum",
     "pub_date": "28 Sep 2026",
@@ -2526,7 +2526,7 @@
     ]
   },
   {
-    "id": "simon_willison_2545390561301762209",
+    "id": "simon_willison_7529321096854455770",
     "title": "2026 in LLMs (so far)",
     "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
     "pub_date": "27 Sep 2026",
@@ -2543,7 +2543,7 @@
     ]
   },
   {
-    "id": "julia_evans_6118760194471510468",
+    "id": "julia_evans_9154241411368545360",
     "title": "Replacing the old battery on rechargeable bike lights",
     "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
     "pub_date": "27 Sep 2026",
@@ -2560,7 +2560,7 @@
     ]
   },
   {
-    "id": "github_eng_6135824144887967855",
+    "id": "github_eng_505051747759144988",
     "title": "Improving site performance by shipping more CSS",
     "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
     "pub_date": "25 Sep 2026",
@@ -2577,7 +2577,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_3943827870958286634",
+    "id": "arjun_prabhulal_medium_97212705321679325",
     "title": "How I built semantic search over 300 million plus academic papers",
     "link": "https://medium.com/@arjun-prabhulal/how-i-built-semantic-search-over-300-million-plus-academic-papers-f05035a50369?source=rss-53e5967c7672------2",
     "pub_date": "25 Sep 2026",
@@ -2596,7 +2596,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_8566683028858600058",
+    "id": "arjun_prabhulal_blog_8866651829569379992",
     "title": "How I Built Semantic Search Over 300 Million Plus Academic Papers",
     "link": "https://arjunprabhulal.com/how-i-built-semantic-search-300m-academic-papers/",
     "pub_date": "25 Sep 2026",
@@ -2613,7 +2613,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_2808757664101712878",
+    "id": "pragmatic_eng_2324867317254626371",
     "title": "The Pulse: RoR creator sparks new “death of coding by hand” debate",
     "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-end-of-coding-by-hand",
     "pub_date": "24 Sep 2026",
@@ -2630,7 +2630,7 @@
     ]
   },
   {
-    "id": "martin_fowler_1224170004716955542",
+    "id": "martin_fowler_8708209018827350002",
     "title": "Fragments: September 24",
     "link": "https://martinfowler.com/fragments/2026-09-24.html",
     "pub_date": "24 Sep 2026",
@@ -2647,7 +2647,7 @@
     ]
   },
   {
-    "id": "martin_fowler_6574008234687057847",
+    "id": "martin_fowler_7640115728527745694",
     "title": "Healthy Feedback",
     "link": "https://martinfowler.com/articles/healthy-peer-feedback.html",
     "pub_date": "24 Sep 2026",
@@ -2664,7 +2664,7 @@
     ]
   },
   {
-    "id": "meta_eng_4863847992217082926",
+    "id": "meta_eng_5904410950753462553",
     "title": "Bringing Private Processing to Meta AI Glasses",
     "link": "https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/",
     "pub_date": "24 Sep 2026",
@@ -2681,7 +2681,7 @@
     ]
   },
   {
-    "id": "github_eng_3205311511262195471",
+    "id": "github_eng_7189789652675800971",
     "title": "Rendering huge pull requests in the GitHub Copilot app",
     "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
     "pub_date": "23 Sep 2026",
@@ -2698,7 +2698,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_3931151655341992828",
+    "id": "pragmatic_eng_4844626344294694533",
     "title": "Design Engineering with Maggie Appleton",
     "link": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
     "pub_date": "23 Sep 2026",
@@ -2715,7 +2715,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_3663966149534981573",
+    "id": "dropbox_tech_5229376641909927704",
     "title": "Dropbox CTO Ali Dasdan on moving from AI adoption to transformation",
     "link": "https://dropbox.tech/culture/learnings-from-deploying-ai-at-company-scale",
     "pub_date": "23 Sep 2026",
@@ -2733,7 +2733,7 @@
     ]
   },
   {
-    "id": "simon_willison_3357641873706455411",
+    "id": "simon_willison_2772552526873364291",
     "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
     "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
     "pub_date": "22 Sep 2026",
@@ -2750,7 +2750,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_249987130253944210",
+    "id": "pragmatic_eng_1461925632474127864",
     "title": "How will AI change operating systems? Part 2: Windows",
     "link": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
     "pub_date": "22 Sep 2026",
@@ -2767,7 +2767,7 @@
     ]
   },
   {
-    "id": "stripe_eng_5099793653108872422",
+    "id": "stripe_eng_2948553973639182817",
     "title": "New trends in global card fraud: How 3D Secure and regional mandates are affecting risk",
     "link": "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk",
     "pub_date": "22 Sep 2026",
@@ -2784,7 +2784,7 @@
     ]
   },
   {
-    "id": "simon_willison_97145911056761527",
+    "id": "simon_willison_999279866458977176",
     "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
     "link": "https://simonwillison.net/2026/Sep/21/jev/",
     "pub_date": "21 Sep 2026",
@@ -2801,7 +2801,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_259846210130545080",
+    "id": "fareed_khan_medium_5971105417595643005",
     "title": "Jev Clearly Explained",
     "link": "https://levelup.gitconnected.com/jev-clearly-explained-3203d6d48de3?source=rss-b856005e5ecd------2",
     "pub_date": "21 Sep 2026",
@@ -2818,7 +2818,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_8776979174428306147",
+    "id": "dropbox_tech_5691652358726388700",
     "title": "Introducing our new Dropbox API documentation",
     "link": "https://dropbox.tech/developers/new-dropbox-api-documentation",
     "pub_date": "21 Sep 2026",
@@ -2835,24 +2835,7 @@
     ]
   },
   {
-    "id": "dan_luu_8241813059978555394",
-    "title": "There's no point at which turning your brain off will work",
-    "link": "https://danluu.com/brain-off/",
-    "pub_date": "18 Sep 2026",
-    "timestamp": 1789689600,
-    "summary": "In early 2025, I started seeing people turn off their brain as they use LLMs 1 . They would have an LLM take an action (summarize text, write some code, etc.), and just assume that it worked 2 . This generally didn't work in early 2025 and the result was often quite silly. As ...",
-    "read_time_mins": 18,
-    "source_id": "dan_luu",
-    "source_name": "Dan Luu",
-    "source_color": "#10b981",
-    "author": "Dan Luu",
-    "category": "Systems Performance & Hardware",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "stripe_eng_1920050569676998876",
+    "id": "stripe_eng_7696462616528083310",
     "title": "Analyzing rising fraud attempts among travel and leisure businesses on Stripe",
     "link": "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe",
     "pub_date": "18 Sep 2026",
@@ -2869,7 +2852,24 @@
     ]
   },
   {
-    "id": "pragmatic_eng_506101587388953268",
+    "id": "dan_luu_3133369495846101485",
+    "title": "There's no point at which turning your brain off will work",
+    "link": "https://danluu.com/brain-off/",
+    "pub_date": "18 Sep 2026",
+    "timestamp": 1789689600,
+    "summary": "In early 2025, I started seeing people turn off their brain as they use LLMs 1 . They would have an LLM take an action (summarize text, write some code, etc.), and just assume that it worked 2 . This generally didn't work in early 2025 and the result was often quite silly. As ...",
+    "read_time_mins": 18,
+    "source_id": "dan_luu",
+    "source_name": "Dan Luu",
+    "source_color": "#10b981",
+    "author": "Dan Luu",
+    "category": "Systems Performance & Hardware",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "pragmatic_eng_4132694058927039996",
     "title": "AI Skills with Matt Pocock",
     "link": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
     "pub_date": "17 Sep 2026",
@@ -2886,7 +2886,7 @@
     ]
   },
   {
-    "id": "martin_fowler_1049660630971645177",
+    "id": "martin_fowler_5306194916768075251",
     "title": "I don't like LLMs",
     "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
     "pub_date": "17 Sep 2026",
@@ -2903,7 +2903,7 @@
     ]
   },
   {
-    "id": "stripe_eng_1221068975471275353",
+    "id": "stripe_eng_926528640172093195",
     "title": "SaaS platforms are surging despite the SaaSpocalypse",
     "link": "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse",
     "pub_date": "17 Sep 2026",
@@ -2920,7 +2920,7 @@
     ]
   },
   {
-    "id": "martin_fowler_6068810233187328200",
+    "id": "martin_fowler_8455726251855806343",
     "title": "Fragments: September 16",
     "link": "https://martinfowler.com/fragments/2026-09-16.html",
     "pub_date": "16 Sep 2026",
@@ -2937,7 +2937,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_4822370842521602955",
+    "id": "pragmatic_eng_5759378432123430728",
     "title": "Inside OpenAI’s agentic software factory",
     "link": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
     "pub_date": "15 Sep 2026",
@@ -2954,7 +2954,7 @@
     ]
   },
   {
-    "id": "martin_fowler_6498303834136415448",
+    "id": "martin_fowler_3152188754710082090",
     "title": "Nail the Narrative",
     "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
     "pub_date": "15 Sep 2026",
@@ -2971,7 +2971,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_2790696433887681855",
+    "id": "fareed_khan_medium_1885001159108264244",
     "title": "Hijacking Claude Code to Execute a Trojan",
     "link": "https://levelup.gitconnected.com/hijacking-claude-code-to-execute-a-trojan-00a1f357c43e?source=rss-b856005e5ecd------2",
     "pub_date": "14 Sep 2026",
@@ -2988,7 +2988,7 @@
     ]
   },
   {
-    "id": "simon_willison_7980284127400663693",
+    "id": "simon_willison_8635265159817128368",
     "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
     "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
     "pub_date": "12 Sep 2026",
@@ -3005,7 +3005,7 @@
     ]
   },
   {
-    "id": "simon_willison_4687706512071119630",
+    "id": "simon_willison_8456387528812085735",
     "title": "OpenAI agents attacked RubyGems back in May",
     "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
     "pub_date": "12 Sep 2026",
@@ -3022,7 +3022,7 @@
     ]
   },
   {
-    "id": "pragmatic_eng_2182006210131162147",
+    "id": "pragmatic_eng_104397205531821309",
     "title": "The Pulse #191: a new trend of CPU shortages",
     "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
     "pub_date": "10 Sep 2026",
@@ -3040,7 +3040,7 @@
     ]
   },
   {
-    "id": "martin_fowler_2661264069144884972",
+    "id": "martin_fowler_2625574199039086360",
     "title": "Social Media Engagement: summer 2026",
     "link": "https://martinfowler.com/articles/2026-social-traffic.html",
     "pub_date": "09 Sep 2026",
@@ -3057,7 +3057,7 @@
     ]
   },
   {
-    "id": "simon_willison_4170439031445097849",
+    "id": "simon_willison_7461685906758404528",
     "title": "Some thoughts on the Navier–Stokes Millennium Prize Problem",
     "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
     "pub_date": "08 Sep 2026",
@@ -3074,7 +3074,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_2955738182122820418",
+    "id": "fareed_khan_medium_7270464588675266962",
     "title": "Agentic Graph Engineering Across 82.8 Million Edges to Catch Hidden Vulnerabilities",
     "link": "https://levelup.gitconnected.com/agentic-graph-engineering-across-82-8-million-edges-to-catch-hidden-vulnerabilities-e62658e0c333?source=rss-b856005e5ecd------2",
     "pub_date": "08 Sep 2026",
@@ -3091,7 +3091,7 @@
     ]
   },
   {
-    "id": "martin_fowler_5126644552335635789",
+    "id": "martin_fowler_3428979674383434047",
     "title": "Fragments: September 8",
     "link": "https://martinfowler.com/fragments/2026-09-08.html",
     "pub_date": "08 Sep 2026",
@@ -3108,7 +3108,7 @@
     ]
   },
   {
-    "id": "dan_luu_8136970211317668496",
+    "id": "dan_luu_2794113154332214949",
     "title": "How well do agents use test and verification techniques?",
     "link": "https://danluu.com/agentic-testing/",
     "pub_date": "07 Sep 2026",
@@ -3125,7 +3125,7 @@
     ]
   },
   {
-    "id": "simon_willison_4756529175483826082",
+    "id": "simon_willison_3728418015477475164",
     "title": "The Pelican comparison grid for Astra is pretty interesting",
     "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
     "pub_date": "04 Sep 2026",
@@ -3142,7 +3142,7 @@
     ]
   },
   {
-    "id": "simon_willison_7171677911191840856",
+    "id": "simon_willison_2585664599262522379",
     "title": "OpenAI's rogue agents were caught communicating via public wikis",
     "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
     "pub_date": "04 Sep 2026",
@@ -3159,7 +3159,7 @@
     ]
   },
   {
-    "id": "github_eng_6663865765262180996",
+    "id": "github_eng_9194810955905370514",
     "title": "How we make AI coding more cost efficient without sacrificing task quality",
     "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
     "pub_date": "02 Sep 2026",
@@ -3176,7 +3176,7 @@
     ]
   },
   {
-    "id": "simon_willison_2479222546841257555",
+    "id": "simon_willison_182744002751911919",
     "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
     "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
     "pub_date": "02 Sep 2026",
@@ -3193,7 +3193,7 @@
     ]
   },
   {
-    "id": "simon_willison_286835231784174301",
+    "id": "simon_willison_923377025026004141",
     "title": "Claude Fable 5.1 made me a really nice animated pelican",
     "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
     "pub_date": "01 Sep 2026",
@@ -3210,24 +3210,7 @@
     ]
   },
   {
-    "id": "dan_luu_7412710545698534291",
-    "title": "Ed Zitron's AI prediction track record",
-    "link": "https://danluu.com/zitron/",
-    "pub_date": "01 Sep 2026",
-    "timestamp": 1788220800,
-    "summary": "I was curious how well the predictions of the most widely cited AI skeptic I've seen (Ed Zitron) have done, so I looked at how his predictions panned out. To disclose my own biases, I've never had a particularly strong pro or anti AI progress position. For example, in 2022, I ...",
-    "read_time_mins": 72,
-    "source_id": "dan_luu",
-    "source_name": "Dan Luu",
-    "source_color": "#10b981",
-    "author": "Dan Luu",
-    "category": "Systems Performance & Hardware",
-    "topics": [
-      "AI & LLMs"
-    ]
-  },
-  {
-    "id": "datadog_eng_3612598291875737927",
+    "id": "datadog_eng_6103506783864021147",
     "title": "Making Rust observability reliable at scale with OpenTelemetry",
     "link": "https://www.datadoghq.com/blog/engineering/rust-tracing-opentelemetry/",
     "pub_date": "01 Sep 2026",
@@ -3246,7 +3229,24 @@
     ]
   },
   {
-    "id": "dropbox_tech_8557831827803668398",
+    "id": "dan_luu_3726861150444406762",
+    "title": "Ed Zitron's AI prediction track record",
+    "link": "https://danluu.com/zitron/",
+    "pub_date": "01 Sep 2026",
+    "timestamp": 1788220800,
+    "summary": "I was curious how well the predictions of the most widely cited AI skeptic I've seen (Ed Zitron) have done, so I looked at how his predictions panned out. To disclose my own biases, I've never had a particularly strong pro or anti AI progress position. For example, in 2022, I ...",
+    "read_time_mins": 72,
+    "source_id": "dan_luu",
+    "source_name": "Dan Luu",
+    "source_color": "#10b981",
+    "author": "Dan Luu",
+    "category": "Systems Performance & Hardware",
+    "topics": [
+      "AI & LLMs"
+    ]
+  },
+  {
+    "id": "dropbox_tech_1687191616461141866",
     "title": "Testing cookie behavior across hundreds of web surfaces with our in-house auditor",
     "link": "https://dropbox.tech/security/how-our-inhouse-auditor-tests-cookie-behavior-across-hundreds-of-web-surfaces",
     "pub_date": "31 Aug 2026",
@@ -3263,7 +3263,7 @@
     ]
   },
   {
-    "id": "dan_luu_4361855289117963863",
+    "id": "dan_luu_7482721049624858179",
     "title": "Bug blindness",
     "link": "https://danluu.com/bug-blind/",
     "pub_date": "30 Aug 2026",
@@ -3280,7 +3280,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_1551421668888867111",
+    "id": "fareed_khan_medium_2719025059228382446",
     "title": "Structuring 40 Million Documents into an Agentic Knowledge Graph",
     "link": "https://levelup.gitconnected.com/structuring-40-million-documents-into-an-agentic-knowledge-graph-92010e609dfa?source=rss-b856005e5ecd------2",
     "pub_date": "26 Aug 2026",
@@ -3297,7 +3297,7 @@
     ]
   },
   {
-    "id": "github_eng_4469447267193120284",
+    "id": "github_eng_3940521089764627958",
     "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
     "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
     "pub_date": "24 Aug 2026",
@@ -3314,7 +3314,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_2506106700302498803",
+    "id": "fareed_khan_medium_138616955423370865",
     "title": "Building a 14 MB Micro AI for Watches, Robot Arms and Phones",
     "link": "https://levelup.gitconnected.com/building-a-14-mb-micro-ai-for-watches-robot-arms-and-phones-794d65c03f06?source=rss-b856005e5ecd------2",
     "pub_date": "21 Aug 2026",
@@ -3331,7 +3331,7 @@
     ]
   },
   {
-    "id": "dan_luu_3123000844738322278",
+    "id": "dan_luu_2738824452501969682",
     "title": "There's no reason for software to be slow anymore",
     "link": "https://danluu.com/perf-opt/",
     "pub_date": "21 Aug 2026",
@@ -3348,7 +3348,7 @@
     ]
   },
   {
-    "id": "datadog_eng_2222762867491084731",
+    "id": "datadog_eng_2536672282661626391",
     "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
     "link": "https://www.datadoghq.com/blog/engineering/gitretriever/",
     "pub_date": "19 Aug 2026",
@@ -3366,7 +3366,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_1313574209935468855",
+    "id": "dropbox_tech_8754473028936038004",
     "title": "Improving infrastructure efficiency for growing demand in the age of AI",
     "link": "https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai",
     "pub_date": "18 Aug 2026",
@@ -3383,7 +3383,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_645101053388197624",
+    "id": "fareed_khan_medium_6479872384032877320",
     "title": "Building a Society of One Billion Agents on Four GPUs",
     "link": "https://levelup.gitconnected.com/building-a-society-of-one-billion-agents-on-four-gpus-ad39928fc449?source=rss-b856005e5ecd------2",
     "pub_date": "17 Aug 2026",
@@ -3400,7 +3400,7 @@
     ]
   },
   {
-    "id": "dan_luu_4546150311708611699",
+    "id": "dan_luu_8406233462303748241",
     "title": "The benchmarkpocalypse",
     "link": "https://danluu.com/benchpocalypse/",
     "pub_date": "17 Aug 2026",
@@ -3417,7 +3417,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_2595414447001012382",
+    "id": "fareed_khan_medium_4332151675117237366",
     "title": "Catching Malicious AI Agents Using a Multi-Layered Detection System",
     "link": "https://levelup.gitconnected.com/catching-malicious-ai-agents-using-a-multi-layered-detection-system-f2b068443bd7?source=rss-b856005e5ecd------2",
     "pub_date": "12 Aug 2026",
@@ -3434,7 +3434,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_3051710976802040085",
+    "id": "arjun_prabhulal_medium_4923052048943060083",
     "title": "Building a Local, Multimodal AI Terminal Agent with Gemma 4",
     "link": "https://medium.com/google-developer-experts/building-a-local-multimodal-ai-terminal-agent-with-gemma-4-4fbaa50eb14b?source=rss-53e5967c7672------2",
     "pub_date": "12 Aug 2026",
@@ -3452,7 +3452,7 @@
     ]
   },
   {
-    "id": "fareed_khan_medium_2100386141122900452",
+    "id": "fareed_khan_medium_8173493141234803189",
     "title": "Building OpenAI’s Exploit Harness That Escaped into Hugging Face",
     "link": "https://levelup.gitconnected.com/building-openais-exploit-harness-that-escaped-into-hugging-face-4fe6a1748861?source=rss-b856005e5ecd------2",
     "pub_date": "11 Aug 2026",
@@ -3469,7 +3469,7 @@
     ]
   },
   {
-    "id": "datadog_eng_593106181052416534",
+    "id": "datadog_eng_5091306827394573344",
     "title": "How we improved APM Java startup by encoding a prefix trie as a JVM constant",
     "link": "https://www.datadoghq.com/blog/engineering/improving-apm-java-startup-with-a-prefix-trie/",
     "pub_date": "11 Aug 2026",
@@ -3487,7 +3487,7 @@
     ]
   },
   {
-    "id": "github_eng_8197459464593655192",
+    "id": "github_eng_8814074455216225814",
     "title": "Using the GitHub Copilot SDK for Java",
     "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
     "pub_date": "10 Aug 2026",
@@ -3504,7 +3504,7 @@
     ]
   },
   {
-    "id": "dan_luu_8809067004268271147",
+    "id": "dan_luu_9186513342709928601",
     "title": "How does programming language affect token efficiency and correctness?",
     "link": "https://danluu.com/pl-tokens/",
     "pub_date": "09 Aug 2026",
@@ -3521,7 +3521,7 @@
     ]
   },
   {
-    "id": "github_eng_1558708015834595248",
+    "id": "github_eng_7966520721708946590",
     "title": "Turn one giant AI-generated pull request to a reviewable stack",
     "link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
     "pub_date": "04 Aug 2026",
@@ -3538,7 +3538,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_3478808223924590428",
+    "id": "arjun_prabhulal_medium_630451792644749021",
     "title": "Building a RAG Agent with Google ADK, Antigravity SDK, Agent Skills, A2UI, and Gemini Enterprise…",
     "link": "https://medium.com/google-cloud/building-a-rag-agent-with-google-adk-antigravity-sdk-agent-skills-a2ui-and-gemini-enterprise-972c1f18f9be?source=rss-53e5967c7672------2",
     "pub_date": "02 Aug 2026",
@@ -3556,7 +3556,7 @@
     ]
   },
   {
-    "id": "github_eng_3487056854210589929",
+    "id": "github_eng_5239798744704296264",
     "title": "Don’t stop early: Case-folding source code at memory speed",
     "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
     "pub_date": "31 Jul 2026",
@@ -3573,7 +3573,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_8619805396315363935",
+    "id": "mitchell_hashimoto_3242490187384019382",
     "title": "Superlogical",
     "link": "https://mitchellh.com/writing/superlogical",
     "pub_date": "29 Jul 2026",
@@ -3590,7 +3590,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_5071478349338541321",
+    "id": "arjun_prabhulal_blog_3016290352130603018",
     "title": "Four Layers of Agent Engineering",
     "link": "https://arjunprabhulal.com/graph-harness-loop-context/",
     "pub_date": "29 Jul 2026",
@@ -3607,7 +3607,7 @@
     ]
   },
   {
-    "id": "antirez_8317062019644075898",
+    "id": "antirez_6973213109425573932",
     "title": "The real AI risk is inside the labs",
     "link": "http://antirez.com/news/172",
     "pub_date": "28 Jul 2026",
@@ -3624,7 +3624,7 @@
     ]
   },
   {
-    "id": "antirez_379864599003504062",
+    "id": "antirez_6343309411796986991",
     "title": "Being Linux Torvalds",
     "link": "http://antirez.com/news/171",
     "pub_date": "25 Jul 2026",
@@ -3642,7 +3642,7 @@
     ]
   },
   {
-    "id": "dan_luu_8763786925919556873",
+    "id": "dan_luu_5081285424073129893",
     "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
     "link": "https://danluu.com/exercise-7/",
     "pub_date": "23 Jul 2026",
@@ -3659,7 +3659,7 @@
     ]
   },
   {
-    "id": "antirez_3216626130982914417",
+    "id": "antirez_5000869904840739861",
     "title": "Not just development, distribution of software may change as well",
     "link": "http://antirez.com/news/170",
     "pub_date": "22 Jul 2026",
@@ -3676,7 +3676,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_6542541635339114619",
+    "id": "mitchell_hashimoto_9155403949871094892",
     "title": "Everyone Should Know SIMD",
     "link": "https://mitchellh.com/writing/everyone-should-know-simd",
     "pub_date": "22 Jul 2026",
@@ -3693,7 +3693,7 @@
     ]
   },
   {
-    "id": "datadog_eng_1103390841166421869",
+    "id": "datadog_eng_6109465771860318335",
     "title": "Unbiased Java CPU profiling with JFR in JDK 25",
     "link": "https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/",
     "pub_date": "22 Jul 2026",
@@ -3711,7 +3711,7 @@
     ]
   },
   {
-    "id": "julia_evans_6434819092121757509",
+    "id": "julia_evans_111178889317097210",
     "title": "Some more things about Django I've been enjoying",
     "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
     "pub_date": "21 Jul 2026",
@@ -3728,7 +3728,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_2267323260258552817",
+    "id": "dropbox_tech_2161099908371187535",
     "title": "How our universal content processing platform Riviera evolved for AI and beyond",
     "link": "https://dropbox.tech/infrastructure/how-our-universal-content-processing-platform-riviera-evolved-for-ai-and-beyond",
     "pub_date": "20 Jul 2026",
@@ -3745,7 +3745,7 @@
     ]
   },
   {
-    "id": "julia_evans_2307430659388571505",
+    "id": "julia_evans_3366304246232380086",
     "title": "Learning a few things about running SQLite",
     "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
     "pub_date": "17 Jul 2026",
@@ -3762,7 +3762,7 @@
     ]
   },
   {
-    "id": "antirez_5897357196479621136",
+    "id": "antirez_6150522885141127664",
     "title": "Control the ideas, not the code",
     "link": "http://antirez.com/news/169",
     "pub_date": "13 Jul 2026",
@@ -3779,7 +3779,7 @@
     ]
   },
   {
-    "id": "dan_luu_8614557825440412435",
+    "id": "dan_luu_6332776806302474342",
     "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
     "link": "https://danluu.com/ai-coding/",
     "pub_date": "03 Jul 2026",
@@ -3796,7 +3796,7 @@
     ]
   },
   {
-    "id": "datadog_eng_9220819888861500419",
+    "id": "datadog_eng_5309004597999119565",
     "title": "How we measure data completeness at scale",
     "link": "https://www.datadoghq.com/blog/engineering/data-pipeline-completeness/",
     "pub_date": "01 Jul 2026",
@@ -3815,7 +3815,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_4148778468958261404",
+    "id": "dropbox_tech_7522780376273169323",
     "title": "How we used DSPy to turn AI evaluations into better responses in Dash chat",
     "link": "https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat",
     "pub_date": "25 Jun 2026",
@@ -3832,7 +3832,7 @@
     ]
   },
   {
-    "id": "datadog_eng_7826732224437506888",
+    "id": "datadog_eng_6004449300092632701",
     "title": "How we migrated a live routing system using AI-assisted refactoring",
     "link": "https://www.datadoghq.com/blog/engineering/ai-assisted-storage-migration/",
     "pub_date": "23 Jun 2026",
@@ -3850,7 +3850,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_3061062426462541595",
+    "id": "mitchell_hashimoto_6400266690227316025",
     "title": "Pledging Another $400,000 to the Zig Software Foundation",
     "link": "https://mitchellh.com/writing/zig-donation-2026",
     "pub_date": "21 Jun 2026",
@@ -3867,7 +3867,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_6696471303419534320",
+    "id": "dropbox_tech_1378253939795449024",
     "title": "How Dropbox uses MCP and Dash to close the design-to-code security gap",
     "link": "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security",
     "pub_date": "12 Jun 2026",
@@ -3885,7 +3885,7 @@
     ]
   },
   {
-    "id": "antirez_2566095568963567300",
+    "id": "antirez_3146865314603312332",
     "title": "A new era for software testing",
     "link": "http://antirez.com/news/168",
     "pub_date": "07 Jun 2026",
@@ -3902,7 +3902,7 @@
     ]
   },
   {
-    "id": "datadog_eng_9047960647274777253",
+    "id": "datadog_eng_7240112422845239116",
     "title": "When failover isn’t safe: Building high-availability PostgreSQL on Kubernetes",
     "link": "https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/",
     "pub_date": "04 Jun 2026",
@@ -3921,7 +3921,7 @@
     ]
   },
   {
-    "id": "datadog_eng_164861237486666267",
+    "id": "datadog_eng_1937163028777749900",
     "title": "From single pull requests to full software packages: Detecting malicious code at scale",
     "link": "https://www.datadoghq.com/blog/engineering/scaling-malicious-code-detection/",
     "pub_date": "02 Jun 2026",
@@ -3939,7 +3939,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_8863786461612782552",
+    "id": "dropbox_tech_861696822788020221",
     "title": "Beyond code generation: rethinking engineering productivity in the age of AI agents",
     "link": "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents",
     "pub_date": "28 May 2026",
@@ -3956,7 +3956,7 @@
     ]
   },
   {
-    "id": "antirez_833552242689677476",
+    "id": "antirez_7748350784121165151",
     "title": "Distributing LLM inference in DwarfStar",
     "link": "http://antirez.com/news/167",
     "pub_date": "25 May 2026",
@@ -3975,7 +3975,7 @@
     ]
   },
   {
-    "id": "dropbox_tech_1128542630958015282",
+    "id": "dropbox_tech_8187799776468709351",
     "title": "Introducing Nova, our internal platform for coding agents",
     "link": "https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents",
     "pub_date": "21 May 2026",
@@ -3992,7 +3992,7 @@
     ]
   },
   {
-    "id": "antirez_5172793781124134355",
+    "id": "antirez_5132811922168115810",
     "title": "Alternatives for the EDIT tool of LLM agents",
     "link": "http://antirez.com/news/166",
     "pub_date": "19 May 2026",
@@ -4009,7 +4009,7 @@
     ]
   },
   {
-    "id": "julia_evans_5933446858450278430",
+    "id": "julia_evans_4853761859911500518",
     "title": "Moving away from Tailwind, and learning to structure my CSS",
     "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
     "pub_date": "15 May 2026",
@@ -4026,7 +4026,7 @@
     ]
   },
   {
-    "id": "antirez_8850088035031240284",
+    "id": "antirez_3777197960177233406",
     "title": "A few words on DS4",
     "link": "http://antirez.com/news/165",
     "pub_date": "14 May 2026",
@@ -4043,7 +4043,7 @@
     ]
   },
   {
-    "id": "antirez_5587562019638067210",
+    "id": "antirez_3234738717139502741",
     "title": "Redis array type: short story of a long development",
     "link": "http://antirez.com/news/164",
     "pub_date": "04 May 2026",
@@ -4060,7 +4060,7 @@
     ]
   },
   {
-    "id": "julia_evans_1677611967421716326",
+    "id": "julia_evans_5981034126899173060",
     "title": "Links to CSS colour palettes",
     "link": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
     "pub_date": "04 May 2026",
@@ -4077,7 +4077,7 @@
     ]
   },
   {
-    "id": "julia_evans_8431561488359089839",
+    "id": "julia_evans_3185381887723982784",
     "title": "Testing Vue components in the browser",
     "link": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/",
     "pub_date": "02 May 2026",
@@ -4094,7 +4094,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_6730013282427075431",
+    "id": "mitchell_hashimoto_4345958375563256623",
     "title": "Ghostty Is Leaving GitHub",
     "link": "https://mitchellh.com/writing/ghostty-leaving-github",
     "pub_date": "28 Apr 2026",
@@ -4111,7 +4111,7 @@
     ]
   },
   {
-    "id": "datadog_eng_3605100257913112718",
+    "id": "datadog_eng_6521448381776636251",
     "title": "Steganography at scale: Embedding share URLs in Datadog widget screenshots",
     "link": "https://www.datadoghq.com/blog/engineering/steganography-at-scale/",
     "pub_date": "21 Apr 2026",
@@ -4129,7 +4129,7 @@
     ]
   },
   {
-    "id": "antirez_2813522358498249709",
+    "id": "antirez_1656785626813402667",
     "title": "AI cybersecurity is not proof of work",
     "link": "http://antirez.com/news/163",
     "pub_date": "16 Apr 2026",
@@ -4146,7 +4146,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_2260304662583846491",
+    "id": "mitchell_hashimoto_6735753508491493671",
     "title": "Simdutf Can Now Be Used Without libc++ or libc++abi",
     "link": "https://mitchellh.com/writing/simdutf-no-libcxx",
     "pub_date": "15 Apr 2026",
@@ -4163,7 +4163,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_259629734107249868",
+    "id": "mitchell_hashimoto_3606674256872250171",
     "title": "The Building Block Economy",
     "link": "https://mitchellh.com/writing/building-block-economy",
     "pub_date": "07 Apr 2026",
@@ -4180,7 +4180,7 @@
     ]
   },
   {
-    "id": "datadog_eng_6331051919607008396",
+    "id": "datadog_eng_5265182292778287382",
     "title": "How we built a real-world evaluation platform for autonomous SRE agents at scale",
     "link": "https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/",
     "pub_date": "07 Apr 2026",
@@ -4199,7 +4199,7 @@
     ]
   },
   {
-    "id": "datadog_eng_945202348745651809",
+    "id": "datadog_eng_9090849573251740152",
     "title": "When upserts don’t update but still write: Debugging Postgres performance at scale",
     "link": "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/",
     "pub_date": "23 Mar 2026",
@@ -4218,7 +4218,7 @@
     ]
   },
   {
-    "id": "julia_evans_3436814298226524657",
+    "id": "julia_evans_5718561622504265787",
     "title": "Examples for the tcpdump and dig man pages",
     "link": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
     "pub_date": "10 Mar 2026",
@@ -4235,7 +4235,7 @@
     ]
   },
   {
-    "id": "datadog_eng_2913793650012149958",
+    "id": "datadog_eng_6186208879128290380",
     "title": "When an AI agent came knocking: Catching malicious contributions in Datadog’s open source repos",
     "link": "https://www.datadoghq.com/blog/engineering/stopping-hackerbot-claw-with-bewaire/",
     "pub_date": "09 Mar 2026",
@@ -4253,7 +4253,7 @@
     ]
   },
   {
-    "id": "antirez_7217911902406499924",
+    "id": "antirez_6132195843559770010",
     "title": "GNU and the AI reimplementations",
     "link": "http://antirez.com/news/162",
     "pub_date": "08 Mar 2026",
@@ -4270,7 +4270,7 @@
     ]
   },
   {
-    "id": "datadog_eng_567016412738851643",
+    "id": "datadog_eng_5971530893656828127",
     "title": "Designing MCP tools for agents: Lessons from building Datadog’s MCP server",
     "link": "https://www.datadoghq.com/blog/engineering/mcp-server-agent-tools/",
     "pub_date": "04 Mar 2026",
@@ -4288,7 +4288,7 @@
     ]
   },
   {
-    "id": "antirez_8133566174442815343",
+    "id": "antirez_3832272273102519008",
     "title": "Redis patterns for coding",
     "link": "http://antirez.com/news/161",
     "pub_date": "01 Mar 2026",
@@ -4306,7 +4306,7 @@
     ]
   },
   {
-    "id": "antirez_780184266597917839",
+    "id": "antirez_6323088353036809917",
     "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
     "link": "http://antirez.com/news/160",
     "pub_date": "24 Feb 2026",
@@ -4324,7 +4324,7 @@
     ]
   },
   {
-    "id": "julia_evans_2668460758685957948",
+    "id": "julia_evans_4107832383085906109",
     "title": "Notes on clarifying man pages",
     "link": "https://jvns.ca/blog/2026/02/18/man-pages/",
     "pub_date": "18 Feb 2026",
@@ -4341,7 +4341,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_3107626532759631965",
+    "id": "mitchell_hashimoto_2263656306042361712",
     "title": "My AI Adoption Journey",
     "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
     "pub_date": "05 Feb 2026",
@@ -4358,7 +4358,7 @@
     ]
   },
   {
-    "id": "antirez_1369733471115669721",
+    "id": "antirez_3944580993237113591",
     "title": "Automatic programming",
     "link": "http://antirez.com/news/159",
     "pub_date": "31 Jan 2026",
@@ -4375,7 +4375,7 @@
     ]
   },
   {
-    "id": "julia_evans_8429265727640097755",
+    "id": "julia_evans_1975473587479723792",
     "title": "Some notes on starting to use Django",
     "link": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
     "pub_date": "27 Jan 2026",
@@ -4392,7 +4392,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_4010366229887339666",
+    "id": "mitchell_hashimoto_3635298524478976200",
     "title": "Don't Trip[wire] Yourself: Testing Error Recovery in Zig",
     "link": "https://mitchellh.com/writing/tripwire",
     "pub_date": "21 Jan 2026",
@@ -4409,7 +4409,7 @@
     ]
   },
   {
-    "id": "antirez_2216129388114152707",
+    "id": "antirez_7960529429350501480",
     "title": "Don't fall into the anti-AI hype",
     "link": "http://antirez.com/news/158",
     "pub_date": "11 Jan 2026",
@@ -4426,7 +4426,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_8403517771769112092",
+    "id": "mitchell_hashimoto_1480736881713998718",
     "title": "Finding and Fixing Ghostty's Largest Memory Leak",
     "link": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
     "pub_date": "10 Jan 2026",
@@ -4443,7 +4443,7 @@
     ]
   },
   {
-    "id": "julia_evans_6437643372227622056",
+    "id": "julia_evans_3426997712651300215",
     "title": "A data model for Git (and other docs updates)",
     "link": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
     "pub_date": "08 Jan 2026",
@@ -4460,7 +4460,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_6624125580157325543",
+    "id": "arjun_prabhulal_blog_1534770521911225311",
     "title": "Top 30 AI/ML Terms Every Developer Should Know",
     "link": "https://arjunprabhulal.com/ai-ml-essential-terms/",
     "pub_date": "07 Dec 2025",
@@ -4477,7 +4477,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_8891622560884713688",
+    "id": "mitchell_hashimoto_1683315018257864520",
     "title": "Ghostty Is Now Non-Profit",
     "link": "https://mitchellh.com/writing/ghostty-non-profit",
     "pub_date": "03 Dec 2025",
@@ -4494,7 +4494,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_4733896789309107713",
+    "id": "arjun_prabhulal_blog_8821068518981044445",
     "title": "Google ADK - MCP Toolbox for Databases (PostgreSQL)",
     "link": "https://arjunprabhulal.com/adk-mcp-toolbox/",
     "pub_date": "27 Nov 2025",
@@ -4511,7 +4511,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_1347709102166482803",
+    "id": "arjun_prabhulal_blog_5209627532462608687",
     "title": "Google ADK - Events",
     "link": "https://arjunprabhulal.com/adk-events/",
     "pub_date": "26 Nov 2025",
@@ -4528,7 +4528,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_7268933121601045037",
+    "id": "arjun_prabhulal_blog_8182669634726523371",
     "title": "Google ADK - Artifacts",
     "link": "https://arjunprabhulal.com/adk-artifacts/",
     "pub_date": "26 Nov 2025",
@@ -4545,7 +4545,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_4761557007064084747",
+    "id": "arjun_prabhulal_blog_1193964340946914621",
     "title": "Google ADK - Callbacks",
     "link": "https://arjunprabhulal.com/adk-callbacks/",
     "pub_date": "26 Nov 2025",
@@ -4562,7 +4562,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_2828038566420171320",
+    "id": "arjun_prabhulal_blog_1244937606413191854",
     "title": "Google ADK - Context Management",
     "link": "https://arjunprabhulal.com/adk-context-management/",
     "pub_date": "26 Nov 2025",
@@ -4580,7 +4580,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_5933608007419580499",
+    "id": "arjun_prabhulal_blog_1877243905547422399",
     "title": "Google ADK - Session, State & Memory",
     "link": "https://arjunprabhulal.com/adk-sessions-state/",
     "pub_date": "26 Nov 2025",
@@ -4598,7 +4598,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_800561332781465911",
+    "id": "arjun_prabhulal_blog_4136208444387677133",
     "title": "Google ADK - Model Context Protocol (MCP)",
     "link": "https://arjunprabhulal.com/adk-mcp-deep-dive/",
     "pub_date": "26 Nov 2025",
@@ -4616,7 +4616,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_8509048095230973035",
+    "id": "arjun_prabhulal_blog_3821861880338449639",
     "title": "Google ADK - Third Party Tools (GitHub, Firecrawl)",
     "link": "https://arjunprabhulal.com/adk-third-party-tools-github/",
     "pub_date": "25 Nov 2025",
@@ -4633,7 +4633,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_2155362808703544788",
+    "id": "arjun_prabhulal_blog_4346236734050681137",
     "title": "Google ADK - Multi-Tool Agents",
     "link": "https://arjunprabhulal.com/adk-multi-tool-agent/",
     "pub_date": "25 Nov 2025",
@@ -4650,7 +4650,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_4315475078625578960",
+    "id": "arjun_prabhulal_blog_2893156560107448963",
     "title": "Google ADK - OpenAPI Tools with Authentication",
     "link": "https://arjunprabhulal.com/adk-custom-tools-openapi/",
     "pub_date": "25 Nov 2025",
@@ -4667,7 +4667,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_1077632384495678271",
+    "id": "arjun_prabhulal_blog_504117052137260035",
     "title": "Google ADK - Custom Function Tools",
     "link": "https://arjunprabhulal.com/adk-custom-tools-function/",
     "pub_date": "25 Nov 2025",
@@ -4684,7 +4684,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_blog_7805829593166136883",
+    "id": "arjun_prabhulal_blog_216964355660630739",
     "title": "Google ADK - Built-in Tools (Vertex AI Search)",
     "link": "https://arjunprabhulal.com/adk-builtin-tools-vertex-search/",
     "pub_date": "25 Nov 2025",
@@ -4701,7 +4701,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_8751235176278854421",
+    "id": "arjun_prabhulal_medium_5366555994849211155",
     "title": "Build AI Agents with Google ADK Visual Agent Builder",
     "link": "https://medium.com/ai-cloud-lab/build-ai-agents-with-google-adk-visual-agent-builder-1b2d81ce95e7?source=rss-53e5967c7672------2",
     "pub_date": "14 Nov 2025",
@@ -4718,7 +4718,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_6538198701721268918",
+    "id": "arjun_prabhulal_medium_3515744881166255857",
     "title": "RAG Simplified with File Search Tool",
     "link": "https://medium.com/google-cloud/rag-simplified-with-file-search-tool-e17098838bc0?source=rss-53e5967c7672------2",
     "pub_date": "13 Nov 2025",
@@ -4735,7 +4735,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_4142658882443958841",
+    "id": "arjun_prabhulal_medium_1560677128571091619",
     "title": "How to Build a Production-Grade RAG with ADK & Vertex AI RAG Engine via the Agent Starter Pack…",
     "link": "https://medium.com/google-cloud/how-to-build-a-production-grade-rag-with-adk-vertex-ai-rag-engine-via-the-agent-starter-pack-7e39e9cfe856?source=rss-53e5967c7672------2",
     "pub_date": "03 Nov 2025",
@@ -4752,7 +4752,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_9038071135112049685",
+    "id": "arjun_prabhulal_medium_3240458785076547692",
     "title": "Gemini CLI Extensions for Figma",
     "link": "https://medium.com/ai-cloud-lab/gemini-cli-extensions-for-figma-02fa7fb2f034?source=rss-53e5967c7672------2",
     "pub_date": "12 Oct 2025",
@@ -4769,7 +4769,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_9184150868020573858",
+    "id": "mitchell_hashimoto_1766871046356673291",
     "title": "Vibing a Non-Trivial Ghostty Feature",
     "link": "https://mitchellh.com/writing/non-trivial-vibing",
     "pub_date": "11 Oct 2025",
@@ -4786,7 +4786,7 @@
     ]
   },
   {
-    "id": "julia_evans_7747041380987999966",
+    "id": "julia_evans_1038806150732674106",
     "title": "Notes on switching to Helix from vim",
     "link": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
     "pub_date": "10 Oct 2025",
@@ -4803,7 +4803,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_1460983984343370247",
+    "id": "arjun_prabhulal_medium_2287856529660829765",
     "title": "Gemini CLI + Figma MCP Server -Turn Design into Code in Minutes",
     "link": "https://medium.com/google-cloud/gemini-cli-figma-mcp-server-turn-design-into-code-in-minutes-88ba219615c6?source=rss-53e5967c7672------2",
     "pub_date": "08 Oct 2025",
@@ -4820,7 +4820,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_7796781745597868484",
+    "id": "mitchell_hashimoto_3830086684479614271",
     "title": "Zig Builds Are Getting Faster",
     "link": "https://mitchellh.com/writing/zig-builds-getting-faster",
     "pub_date": "03 Oct 2025",
@@ -4837,7 +4837,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_3707592895703403272",
+    "id": "arjun_prabhulal_medium_2232005828262755141",
     "title": "How I Built an AI Shopping Assistant on GKE with Google ADK + MCP (GKE Hackathon)",
     "link": "https://medium.com/google-cloud/how-i-built-an-ai-shopping-assistant-on-gke-with-google-adk-mcp-gke-hackathon-0c8675d8aa6b?source=rss-53e5967c7672------2",
     "pub_date": "22 Sep 2025",
@@ -4855,7 +4855,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_2231267290678672436",
+    "id": "mitchell_hashimoto_2713284201719025782",
     "title": "Libghostty Is Coming",
     "link": "https://mitchellh.com/writing/libghostty-is-coming",
     "pub_date": "22 Sep 2025",
@@ -4872,7 +4872,7 @@
     ]
   },
   {
-    "id": "arjun_prabhulal_medium_2550174018685333015",
+    "id": "arjun_prabhulal_medium_677274979264214255",
     "title": "Build a RAG Pipeline with Gemini Embeddings and Vector Search-A Deep Dive (Full Code)",
     "link": "https://medium.com/google-cloud/build-a-rag-pipeline-with-gemini-embeddings-and-vector-search-a-deep-dive-full-code-bcd521ad9e1c?source=rss-53e5967c7672------2",
     "pub_date": "15 Sep 2025",
@@ -4889,7 +4889,7 @@
     ]
   },
   {
-    "id": "mitchell_hashimoto_1446007312157491360",
+    "id": "mitchell_hashimoto_1286189073888283550",
     "title": "You Have to Feel It",
     "link": "https://mitchellh.com/writing/feel-it",
     "pub_date": "30 Aug 2025",
@@ -4906,7 +4906,7 @@
     ]
   },
   {
-    "id": "julia_evans_1363829944494436516",
+    "id": "julia_evans_5503032238908074747",
     "title": "New zine: The Secret Rules of the Terminal",
     "link": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
     "pub_date": "26 Jun 2025",
@@ -4923,7 +4923,7 @@
     ]
   },
   {
-    "id": "julia_evans_8725334690735680721",
+    "id": "julia_evans_3259098560317522898",
     "title": "Using `make` to compile C programs (for non-C-programmers)",
     "link": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
     "pub_date": "10 Jun 2025",
@@ -4940,7 +4940,7 @@
     ]
   },
   {
-    "id": "julia_evans_1288259288676911481",
+    "id": "julia_evans_5947623925707948455",
     "title": "Standards for ANSI escape codes",
     "link": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
     "pub_date": "07 Mar 2025",
@@ -4957,7 +4957,7 @@
     ]
   },
   {
-    "id": "julia_evans_4431841652779396555",
+    "id": "julia_evans_2653070246086629844",
     "title": "How to add a directory to your PATH",
     "link": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
     "pub_date": "13 Feb 2025",
@@ -4974,7 +4974,7 @@
     ]
   },
   {
-    "id": "dan_luu_6752575639965961940",
+    "id": "dan_luu_4891361024028848313",
     "title": "Steve Ballmer was an underrated CEO",
     "link": "https://danluu.com/ballmer/",
     "pub_date": "28 Oct 2024",
@@ -4991,7 +4991,7 @@
     ]
   },
   {
-    "id": "dan_luu_2236728774027354796",
+    "id": "dan_luu_1727291081200841334",
     "title": "How good can you be at Codenames without knowing any words?",
     "link": "https://danluu.com/codenames/",
     "pub_date": "11 Aug 2024",
@@ -5008,7 +5008,7 @@
     ]
   },
   {
-    "id": "dan_luu_5743908617728484060",
+    "id": "dan_luu_8707580053475516375",
     "title": "A discussion of discussions on AI bias",
     "link": "https://danluu.com/ai-bias/",
     "pub_date": "16 Jun 2024",
@@ -5025,7 +5025,7 @@
     ]
   },
   {
-    "id": "dan_luu_2246339599702437698",
+    "id": "dan_luu_2410062657248135647",
     "title": "What the FTC got wrong in the Google antitrust investigation",
     "link": "https://danluu.com/ftc-google-antitrust/",
     "pub_date": "26 May 2024",
@@ -5042,7 +5042,7 @@
     ]
   },
   {
-    "id": "dan_luu_484524133287128215",
+    "id": "dan_luu_6250709223162693039",
     "title": "How web bloat impacts users with slow devices",
     "link": "https://danluu.com/slow-device/",
     "pub_date": "16 Mar 2024",
@@ -5059,7 +5059,7 @@
     ]
   },
   {
-    "id": "dan_luu_5483624855541826112",
+    "id": "dan_luu_7602730240948012536",
     "title": "Diseconomies of scale in fraud, spam, support, and moderation",
     "link": "https://danluu.com/diseconomies-scale/",
     "pub_date": "18 Feb 2024",
@@ -5076,7 +5076,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_1174300037137632407",
+    "id": "sidu_ponnappa_medium_9221306289774122184",
     "title": "7 things I wish I knew when I first played Legend of Zelda: Breath of the Wild",
     "link": "https://medium.com/@ponnappa/7-things-i-wish-i-knew-when-i-first-played-legend-of-zelda-breath-of-the-wild-863cc12e48f2?source=rss-e2e244e6c6b3------2",
     "pub_date": "25 Jul 2021",
@@ -5093,7 +5093,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_3855324208713566964",
+    "id": "sidu_ponnappa_medium_5984476653547853748",
     "title": "Clarity, Computers & Startups",
     "link": "https://medium.com/@ponnappa/clarity-computers-e730128260d6?source=rss-e2e244e6c6b3------2",
     "pub_date": "02 Mar 2021",
@@ -5111,7 +5111,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_6825807047128420149",
+    "id": "sidu_ponnappa_medium_3746676408295145249",
     "title": "How to set KRAs? #TwitterQuestions",
     "link": "https://medium.com/@ponnappa/how-to-set-kras-twitterquestions-1ce925f0fd49?source=rss-e2e244e6c6b3------2",
     "pub_date": "24 Sep 2020",
@@ -5128,7 +5128,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_6901937935314682702",
+    "id": "sidu_ponnappa_medium_4691715313895282018",
     "title": "A better marketplace for talent",
     "link": "https://medium.com/@ponnappa/a-better-marketplace-for-talent-baf9783c19f5?source=rss-e2e244e6c6b3------2",
     "pub_date": "24 Jul 2020",
@@ -5145,7 +5145,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_387958675501612388",
+    "id": "sidu_ponnappa_medium_6564268989290496228",
     "title": "Hiring programmers in India",
     "link": "https://medium.com/@ponnappa/hiring-programmers-in-india-7bc484affedb?source=rss-e2e244e6c6b3------2",
     "pub_date": "27 Jun 2020",
@@ -5162,7 +5162,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_4975781052140312555",
+    "id": "sidu_ponnappa_medium_7428272762484122662",
     "title": "Principles of Product Development Flow",
     "link": "https://medium.com/@ponnappa/principles-of-product-development-flow-12045fe9f08b?source=rss-e2e244e6c6b3------2",
     "pub_date": "25 Apr 2020",
@@ -5179,7 +5179,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_1086834145396868339",
+    "id": "sidu_ponnappa_medium_2456139079877129085",
     "title": "Remote work after the pandemic",
     "link": "https://medium.com/@ponnappa/remote-work-after-the-pandemic-d2562e56f53b?source=rss-e2e244e6c6b3------2",
     "pub_date": "16 Mar 2020",
@@ -5196,7 +5196,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_7597918547733419687",
+    "id": "sidu_ponnappa_medium_682821119833923451",
     "title": "The Paradox of Personal Growth",
     "link": "https://medium.com/@ponnappa/the-paradox-of-personal-growth-f6b19e33ae07?source=rss-e2e244e6c6b3------2",
     "pub_date": "04 Nov 2019",
@@ -5213,7 +5213,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_3296515078791206916",
+    "id": "sidu_ponnappa_medium_2596721209112609651",
     "title": "Good dog",
     "link": "https://medium.com/@ponnappa/good-dog-4ae391defeab?source=rss-e2e244e6c6b3------2",
     "pub_date": "29 Oct 2019",
@@ -5230,7 +5230,7 @@
     ]
   },
   {
-    "id": "sidu_ponnappa_medium_6490094493865655475",
+    "id": "sidu_ponnappa_medium_887276201160070734",
     "title": "Superapp strategies",
     "link": "https://medium.com/@ponnappa/superapp-strategies-f39b24cb2849?source=rss-e2e244e6c6b3------2",
     "pub_date": "29 Oct 2019",
